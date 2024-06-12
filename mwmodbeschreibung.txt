@@ -1,0 +1,127 @@
+Mod Ist noch in der Entwicklung!!!
+
+MySQL: anbindung erfolderlich für Folgende Funktionen: Ausweis System Economey System (geld / konto) Polizei datenbank polizei system noch in Arbeit
+
+
+Mod Config:
+Prefix für /broadcast
+Option um die Mod Color Codes anzupassen die im chat angezeigt werden also die mod output nachrichten farben anpassen
+MySQL daten und ob MySQL genutz werden soll
+Paycheck intervall paycheckcount und ob PayCheck an sein soll und start geld(benötigt mysql wegen economy)
+opti ob optifine benötigt wird um spielen zu dürfen
+haus system ob worldguard oder ein item genutz werden soll
+Policejobname=
+policewebhooklink(aktuell in Entwicklung)
+policepingrole id (aktuell in Entwicklung)
+
+JobSystem:
+Möglichkeit Ingame jobs zu erstellen mit /job create
+mit /job createrank <rank> <gehalt> kann man ränge in dem job erstellen mit addrank <player> sie zum spieler hinzufügen
+der rest ist ingame selbst erklährbar dank tab complete
+bei fragen einfach auf unserem discord oder hier auf CurseForge fragen
+
+CarSystem:
+CarSpawner mit der mod DynamX
+CarGarage mit der mod Dynamx (benötigt MySQL)
+
+RPCommands:
+/ooc <nachricht>
+/oocglobal <nachricht>
+
+NützlicheCommands:
+/gm <0/1/2/3>
+/clean
+/ec
+/clear
+/god
+/fly
+/skull
+/tpall
+/head/skull
+/day
+/night
+/sun
+/rain
+/thunder
+/heal
+/feed
+/rename
+/addlore
+/setlore
+/removelore
+/setspawn
+/spawn
+tpa system (/tpa /tpaaccept /Tpadeny /Tpaall)
+/setview
+/hunger
+/unbreakable
+/broadcast
+/sudo
+/tphere
+/trash
+/vanish (benötigt Custom Player Models)
+Warp System (/warp /setwarp /delwarp /warprq /warps)
+
+
+Item Block System:
+/blockitem add <item in main hand>
+/blockitem remove <item register name (tab complete)>
+/blockitem whitelist <item register name (tab complete)> <playername>
+macht das man die items / blöcke nichtmehr benutzen kann ausser man ist auf der whitelist
+
+
+ClickCommands:
+auf block schauen und /setclickaction <P = Player S = Server I = Player ohne op abfrage> <R = Rechtsklick L = Linksklickt> <Befehl der ausgeführt werden soll>
+/deleteclickaction auf block schauen um wieder zu entfernen 
+
+EconomySystemCommands:
+/money
+/eco <help/add/set/remove/get>
+
+Routen System(Geplant)
+
+Haus System (Noch In Entwiklung):
+For Sale Sign mit ob rechtsklicken zum einstellen items umbennennen (/rename und reinlegen)
+
+Start Commands(Noch In Entwiklung):
+Beispiel für die Config
+p say test
+s say test
+
+P = Player
+S = Server
+
+
+
+Alle Neuen Items:
+ATM in Groß und klein
+Grassblock der von allen seiten grass texture hat
+Pfad blöcke in 2 Varianten
+Pfad block der von allen seiten Pfad texture hat
+Gehweg und Gehweg Rot
+MW Logo
+MR Logo
+Radio (Funk Gerät)
+Film Klappe
+Andere holz art Behandeltes Holz
+Handy (Samsung/Iphone)
+Neue Falltüren aus neuen Minecraft veriosnen
+Neuer Kies und neuer Sand (neue Texturen)
+Klatter stein block
+Kaffe
+Schokoladen Donut
+Zapfsäule
+Kaffee maschiene
+handschellen
+Telepfon
+Kartenleser
+kasse
+Kredit karten in mehreren farben
+Ausweis (Männlich/Weiblich)
+For Sale Sign
+Pin Board
+Vehicle Spawner
+Garage
+VRS Remover
+Dokument
+Geld (Ein Euro/ Zwei Euro/ 5 Euro/ 10 Euro/ 20 Euro/ 50 Euro/ 100 Euro/ 200 Euro/ 500 Euro)
