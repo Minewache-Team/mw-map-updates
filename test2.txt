@@ -1,0 +1,1 @@
+minecraft:cobblestone 0 0 0 0 minecraft:cobblestone
