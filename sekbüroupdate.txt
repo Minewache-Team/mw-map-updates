@@ -1,0 +1,1321 @@
+saros_new_blocks_mod:behandeltes_holz -2997 65 -418 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2997 65 -417 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2997 65 -416 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2997 65 -415 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2997 65 -414 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2997 65 -413 0 saros_new_blocks_mod:behandeltes_holz
+minecraft:stone_button -2997 65 -412 5 minecraft:stone_button
+saros_new_blocks_mod:behandeltes_holz -2997 65 -411 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2997 65 -410 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2997 65 -409 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2997 65 -408 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2997 65 -407 0 saros_new_blocks_mod:behandeltes_holz
+minecraft:air -2997 66 -418 0 minecraft:air
+minecraft:concrete -2997 66 -417 7 minecraft:concrete
+minecraft:concrete -2997 66 -416 7 minecraft:concrete
+minecraft:concrete -2997 66 -415 7 minecraft:concrete
+webdisplays:screen -2997 66 -414 0 webdisplays:screen
+webdisplays:screen -2997 66 -413 0 webdisplays:screen
+webdisplays:screen -2997 66 -412 0 webdisplays:screen
+webdisplays:screen -2997 66 -411 0 webdisplays:screen
+webdisplays:screen -2997 66 -410 1 webdisplays:screen
+NBT: {WDScreens:[{OwnerName:"Sarocesch",Upgrades:[],Friends:[],FriendRights:51b,Rotation:0b,OtherRights:51b,URL:"https://sarocesch.de/file/i/6ab33d0c498557212.png",Side:5b,AutoVolume:1b,OwnerUUIDLeast:-6268220177463232030L,OwnerUUIDMost:1079575293290168781L,Height:3,ResolutionY:352,ResolutionX:608,Width:5}],x:-2997,y:66,z:-410,id:"webdisplays:screen"}
+minecraft:concrete -2997 66 -409 7 minecraft:concrete
+minecraft:concrete -2997 66 -408 7 minecraft:concrete
+minecraft:concrete -2997 66 -407 7 minecraft:concrete
+minecraft:air -2997 67 -418 0 minecraft:air
+minecraft:concrete -2997 67 -417 7 minecraft:concrete
+minecraft:concrete -2997 67 -416 7 minecraft:concrete
+minecraft:concrete -2997 67 -415 7 minecraft:concrete
+webdisplays:screen -2997 67 -414 0 webdisplays:screen
+webdisplays:screen -2997 67 -413 0 webdisplays:screen
+webdisplays:screen -2997 67 -412 0 webdisplays:screen
+webdisplays:screen -2997 67 -411 0 webdisplays:screen
+webdisplays:screen -2997 67 -410 0 webdisplays:screen
+minecraft:concrete -2997 67 -409 7 minecraft:concrete
+minecraft:concrete -2997 67 -408 7 minecraft:concrete
+minecraft:concrete -2997 67 -407 7 minecraft:concrete
+minecraft:air -2997 68 -418 0 minecraft:air
+minecraft:concrete -2997 68 -417 7 minecraft:concrete
+minecraft:concrete -2997 68 -416 7 minecraft:concrete
+minecraft:concrete -2997 68 -415 7 minecraft:concrete
+webdisplays:screen -2997 68 -414 0 webdisplays:screen
+webdisplays:screen -2997 68 -413 0 webdisplays:screen
+webdisplays:screen -2997 68 -412 0 webdisplays:screen
+webdisplays:screen -2997 68 -411 0 webdisplays:screen
+webdisplays:screen -2997 68 -410 0 webdisplays:screen
+minecraft:concrete -2997 68 -409 7 minecraft:concrete
+minecraft:concrete -2997 68 -408 7 minecraft:concrete
+minecraft:concrete -2997 68 -407 7 minecraft:concrete
+minecraft:air -2997 69 -418 0 minecraft:air
+securitycraft:reinforced_concrete -2997 69 -417 7 securitycraft:reinforced_concrete
+NBT: {owner:"Sarocesch",ownerUUID:"0efb6c02-68d9-41cd-a902-cef5845e39e2",x:-2997,y:69,z:-417,id:"securitycraft:ownable"}
+securitycraft:reinforced_concrete -2997 69 -416 7 securitycraft:reinforced_concrete
+NBT: {owner:"Sarocesch",ownerUUID:"0efb6c02-68d9-41cd-a902-cef5845e39e2",x:-2997,y:69,z:-416,id:"securitycraft:ownable"}
+securitycraft:reinforced_concrete -2997 69 -415 7 securitycraft:reinforced_concrete
+NBT: {owner:"Sarocesch",ownerUUID:"0efb6c02-68d9-41cd-a902-cef5845e39e2",x:-2997,y:69,z:-415,id:"securitycraft:ownable"}
+securitycraft:reinforced_concrete -2997 69 -414 7 securitycraft:reinforced_concrete
+NBT: {owner:"Sarocesch",ownerUUID:"0efb6c02-68d9-41cd-a902-cef5845e39e2",x:-2997,y:69,z:-414,id:"securitycraft:ownable"}
+securitycraft:reinforced_concrete -2997 69 -413 7 securitycraft:reinforced_concrete
+NBT: {owner:"Sarocesch",ownerUUID:"0efb6c02-68d9-41cd-a902-cef5845e39e2",x:-2997,y:69,z:-413,id:"securitycraft:ownable"}
+securitycraft:reinforced_concrete -2997 69 -412 7 securitycraft:reinforced_concrete
+NBT: {owner:"Sarocesch",ownerUUID:"0efb6c02-68d9-41cd-a902-cef5845e39e2",x:-2997,y:69,z:-412,id:"securitycraft:ownable"}
+securitycraft:reinforced_concrete -2997 69 -411 7 securitycraft:reinforced_concrete
+NBT: {owner:"Sarocesch",ownerUUID:"0efb6c02-68d9-41cd-a902-cef5845e39e2",x:-2997,y:69,z:-411,id:"securitycraft:ownable"}
+securitycraft:reinforced_concrete -2997 69 -410 7 securitycraft:reinforced_concrete
+NBT: {owner:"Sarocesch",ownerUUID:"0efb6c02-68d9-41cd-a902-cef5845e39e2",x:-2997,y:69,z:-410,id:"securitycraft:ownable"}
+securitycraft:reinforced_concrete -2997 69 -409 7 securitycraft:reinforced_concrete
+NBT: {owner:"Sarocesch",ownerUUID:"0efb6c02-68d9-41cd-a902-cef5845e39e2",x:-2997,y:69,z:-409,id:"securitycraft:ownable"}
+securitycraft:reinforced_concrete -2997 69 -408 7 securitycraft:reinforced_concrete
+NBT: {owner:"Sarocesch",ownerUUID:"0efb6c02-68d9-41cd-a902-cef5845e39e2",x:-2997,y:69,z:-408,id:"securitycraft:ownable"}
+securitycraft:reinforced_concrete -2997 69 -407 7 securitycraft:reinforced_concrete
+NBT: {owner:"Sarocesch",ownerUUID:"0efb6c02-68d9-41cd-a902-cef5845e39e2",x:-2997,y:69,z:-407,id:"securitycraft:ownable"}
+littletiles:blocklittletiles -2997 70 -418 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2997,y:70,z:-418,id:"minecraft:littletilestileentity",content:{tiles:[{boxes:[[I;0,0,0,4,1,4],[I;0,2,0,4,4,4]],block:"minecraft:concrete:7"}],children:[]}}
+littletiles:blocklittletiles -2997 70 -417 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2997,y:70,z:-417,id:"minecraft:littletilestileentity",content:{tiles:[{boxes:[[I;0,0,0,4,1,4],[I;0,2,0,4,4,4]],block:"minecraft:concrete:7"}],children:[]}}
+littletiles:blocklittletiles -2997 70 -416 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2997,y:70,z:-416,id:"minecraft:littletilestileentity",content:{tiles:[{boxes:[[I;0,0,0,4,1,4],[I;0,2,0,4,4,4]],block:"minecraft:concrete:7"}],children:[]}}
+littletiles:blocklittletiles -2997 70 -415 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2997,y:70,z:-415,id:"minecraft:littletilestileentity",content:{tiles:[{boxes:[[I;0,0,0,4,1,4],[I;0,2,0,4,4,4]],block:"minecraft:concrete:7"}],children:[]}}
+littletiles:blocklittletiles -2997 70 -414 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2997,y:70,z:-414,id:"minecraft:littletilestileentity",content:{tiles:[{boxes:[[I;0,0,0,4,1,4],[I;0,2,0,4,4,4]],block:"minecraft:concrete:7"}],children:[]}}
+littletiles:blocklittletiles -2997 70 -413 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2997,y:70,z:-413,id:"minecraft:littletilestileentity",content:{tiles:[{boxes:[[I;0,0,0,4,1,4],[I;0,2,0,4,4,4]],block:"minecraft:concrete:7"}],children:[]}}
+securitycraft:reinforced_concrete -2997 70 -412 7 securitycraft:reinforced_concrete
+NBT: {owner:"21Theo",ownerUUID:"7237070f-b997-4e8c-a714-2ee7e315f44c",x:-2997,y:70,z:-412,id:"securitycraft:ownable"}
+littletiles:blocklittletiles -2997 70 -411 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2997,y:70,z:-411,id:"minecraft:littletilestileentity",content:{tiles:[{box:[I;0,0,0,4,1,4],block:"minecraft:concrete:7"},{box:[I;0,2,0,4,4,4],block:"saros_new_blocks_mod:behandeltes_holz"}],children:[]}}
+littletiles:blocklittletiles -2997 70 -410 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2997,y:70,z:-410,id:"minecraft:littletilestileentity",content:{tiles:[{box:[I;0,0,0,4,1,4],block:"minecraft:concrete:7"},{box:[I;0,2,0,4,4,4],block:"saros_new_blocks_mod:behandeltes_holz"}],children:[]}}
+littletiles:blocklittletiles -2997 70 -409 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2997,y:70,z:-409,id:"minecraft:littletilestileentity",content:{tiles:[{box:[I;0,0,0,4,1,4],block:"minecraft:concrete:7"},{box:[I;0,2,0,4,4,4],block:"saros_new_blocks_mod:behandeltes_holz"}],children:[]}}
+littletiles:blocklittletiles -2997 70 -408 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2997,y:70,z:-408,id:"minecraft:littletilestileentity",content:{tiles:[{box:[I;0,0,0,4,1,4],block:"minecraft:concrete:7"},{box:[I;0,2,0,4,4,4],block:"saros_new_blocks_mod:behandeltes_holz"}],children:[]}}
+littletiles:blocklittletiles -2997 70 -407 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2997,y:70,z:-407,id:"minecraft:littletilestileentity",content:{tiles:[{box:[I;0,0,0,4,1,4],block:"minecraft:concrete:7"},{box:[I;0,2,0,4,4,4],block:"saros_new_blocks_mod:behandeltes_holz"}],children:[]}}
+saros_new_blocks_mod:behandeltes_holz -2996 65 -418 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2996 65 -417 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2996 65 -416 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2996 65 -415 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2996 65 -414 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2996 65 -413 0 saros_new_blocks_mod:behandeltes_holz
+littletiles:blocklittletiles -2996 65 -412 0 littletiles:blocklittletiles
+NBT: {x:-2996,y:65,z:-412,id:"minecraft:littletilestileentity",content:{tiles:[{boxes:[[I;0,0,9,16,16,16],[I;0,0,0,16,15,9],[I;1,15,0,16,16,9],[I;0,15,0,1,16,8]],block:"saros_new_blocks_mod:behandeltes_holz"}],children:[]}}
+saros_new_blocks_mod:behandeltes_holz -2996 65 -411 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2996 65 -410 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2996 65 -409 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2996 65 -408 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2996 65 -407 0 saros_new_blocks_mod:behandeltes_holz
+minecraft:sea_lantern -2996 66 -418 0 minecraft:sea_lantern
+minecraft:concrete -2996 66 -417 7 minecraft:concrete
+props:blockprops -2996 66 -416 1 props:blockprops
+NBT: {slaves:[[I;-2996,67,-416]],BlockType:1689,isRunning:0b,x:-2996,y:66,z:-416,id:"props:com.mia.props.common.tileprops",BlockRotation:5}
+minecraft:air -2996 66 -415 0 minecraft:air
+minecraft:air -2996 66 -414 0 minecraft:air
+minecraft:air -2996 66 -413 0 minecraft:air
+minecraft:air -2996 66 -412 0 minecraft:air
+minecraft:air -2996 66 -411 0 minecraft:air
+minecraft:air -2996 66 -410 0 minecraft:air
+minecraft:air -2996 66 -409 0 minecraft:air
+props:blockprops -2996 66 -408 0 props:blockprops
+NBT: {slaves:[],BlockType:3365,isRunning:0b,x:-2996,y:66,z:-408,id:"props:com.mia.props.common.tileprops",BlockRotation:0}
+minecraft:concrete -2996 66 -407 7 minecraft:concrete
+minecraft:air -2996 67 -418 0 minecraft:air
+minecraft:concrete -2996 67 -417 7 minecraft:concrete
+props:blockfake -2996 67 -416 2 props:blockfake
+NBT: {x:-2996,y:67,z:-416,id:"props:com.mia.props.common.tilefake",master:[I;-2996,66,-416]}
+minecraft:air -2996 67 -415 0 minecraft:air
+minecraft:air -2996 67 -414 0 minecraft:air
+minecraft:air -2996 67 -413 0 minecraft:air
+minecraft:air -2996 67 -412 0 minecraft:air
+minecraft:air -2996 67 -411 0 minecraft:air
+minecraft:air -2996 67 -410 0 minecraft:air
+minecraft:air -2996 67 -409 0 minecraft:air
+minecraft:air -2996 67 -408 0 minecraft:air
+minecraft:concrete -2996 67 -407 7 minecraft:concrete
+minecraft:air -2996 68 -418 0 minecraft:air
+minecraft:concrete -2996 68 -417 7 minecraft:concrete
+simplylight:edge_light_top -2996 68 -416 9 simplylight:edge_light_top
+simplylight:edge_light_top -2996 68 -415 8 simplylight:edge_light_top
+simplylight:edge_light_top -2996 68 -414 8 simplylight:edge_light_top
+simplylight:edge_light_top -2996 68 -413 8 simplylight:edge_light_top
+simplylight:edge_light_top -2996 68 -412 8 simplylight:edge_light_top
+simplylight:edge_light_top -2996 68 -411 8 simplylight:edge_light_top
+simplylight:edge_light_top -2996 68 -410 8 simplylight:edge_light_top
+simplylight:edge_light_top -2996 68 -409 8 simplylight:edge_light_top
+simplylight:edge_light_top -2996 68 -408 10 simplylight:edge_light_top
+minecraft:concrete -2996 68 -407 7 minecraft:concrete
+minecraft:concrete -2996 69 -418 7 minecraft:concrete
+securitycraft:reinforced_concrete -2996 69 -417 7 securitycraft:reinforced_concrete
+NBT: {owner:"Sarocesch",ownerUUID:"0efb6c02-68d9-41cd-a902-cef5845e39e2",x:-2996,y:69,z:-417,id:"securitycraft:ownable"}
+minecraft:concrete -2996 69 -416 7 minecraft:concrete
+minecraft:concrete -2996 69 -415 7 minecraft:concrete
+minecraft:concrete -2996 69 -414 7 minecraft:concrete
+minecraft:concrete -2996 69 -413 7 minecraft:concrete
+minecraft:concrete -2996 69 -412 7 minecraft:concrete
+minecraft:concrete -2996 69 -411 7 minecraft:concrete
+minecraft:concrete -2996 69 -410 7 minecraft:concrete
+minecraft:concrete -2996 69 -409 7 minecraft:concrete
+minecraft:concrete -2996 69 -408 7 minecraft:concrete
+securitycraft:reinforced_concrete -2996 69 -407 7 securitycraft:reinforced_concrete
+NBT: {owner:"Sarocesch",ownerUUID:"0efb6c02-68d9-41cd-a902-cef5845e39e2",x:-2996,y:69,z:-407,id:"securitycraft:ownable"}
+littletiles:blocklittletiles -2996 70 -418 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2996,y:70,z:-418,id:"minecraft:littletilestileentity",content:{tiles:[{boxes:[[I;0,0,0,4,1,4],[I;0,2,0,4,4,4]],block:"minecraft:concrete:7"}],children:[]}}
+littletiles:blocklittletiles -2996 70 -417 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2996,y:70,z:-417,id:"minecraft:littletilestileentity",content:{tiles:[{boxes:[[I;0,0,0,4,1,4],[I;0,2,0,4,4,4]],block:"minecraft:concrete:7"}],children:[]}}
+littletiles:blocklittletiles -2996 70 -416 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2996,y:70,z:-416,id:"minecraft:littletilestileentity",content:{tiles:[{boxes:[[I;0,0,0,4,1,4],[I;0,2,0,4,4,4]],block:"minecraft:concrete:7"}],children:[]}}
+littletiles:blocklittletiles -2996 70 -415 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2996,y:70,z:-415,id:"minecraft:littletilestileentity",content:{tiles:[{boxes:[[I;0,0,0,4,1,4],[I;0,2,0,4,4,4]],block:"minecraft:concrete:7"}],children:[]}}
+littletiles:blocklittletiles -2996 70 -414 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2996,y:70,z:-414,id:"minecraft:littletilestileentity",content:{tiles:[{boxes:[[I;0,0,0,4,1,4],[I;0,2,0,4,4,4]],block:"minecraft:concrete:7"}],children:[]}}
+littletiles:blocklittletiles -2996 70 -413 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2996,y:70,z:-413,id:"minecraft:littletilestileentity",content:{tiles:[{boxes:[[I;0,0,0,4,1,4],[I;0,2,0,4,4,4]],block:"minecraft:concrete:7"}],children:[]}}
+securitycraft:reinforced_concrete -2996 70 -412 7 securitycraft:reinforced_concrete
+NBT: {owner:"21Theo",ownerUUID:"7237070f-b997-4e8c-a714-2ee7e315f44c",x:-2996,y:70,z:-412,id:"securitycraft:ownable"}
+littletiles:blocklittletiles -2996 70 -411 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2996,y:70,z:-411,id:"minecraft:littletilestileentity",content:{tiles:[{box:[I;0,0,0,4,1,4],block:"minecraft:concrete:7"},{box:[I;0,2,0,4,4,4],block:"saros_new_blocks_mod:behandeltes_holz"}],children:[]}}
+littletiles:blocklittletiles -2996 70 -410 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2996,y:70,z:-410,id:"minecraft:littletilestileentity",content:{tiles:[{box:[I;0,0,0,4,1,4],block:"minecraft:concrete:7"},{box:[I;0,2,0,4,4,4],block:"saros_new_blocks_mod:behandeltes_holz"}],children:[]}}
+littletiles:blocklittletiles -2996 70 -409 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2996,y:70,z:-409,id:"minecraft:littletilestileentity",content:{tiles:[{box:[I;0,0,0,4,1,4],block:"minecraft:concrete:7"},{box:[I;0,2,0,4,4,4],block:"saros_new_blocks_mod:behandeltes_holz"}],children:[]}}
+littletiles:blocklittletiles -2996 70 -408 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2996,y:70,z:-408,id:"minecraft:littletilestileentity",content:{tiles:[{box:[I;0,0,0,4,1,4],block:"minecraft:concrete:7"},{box:[I;0,2,0,4,4,4],block:"saros_new_blocks_mod:behandeltes_holz"}],children:[]}}
+littletiles:blocklittletiles -2996 70 -407 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2996,y:70,z:-407,id:"minecraft:littletilestileentity",content:{tiles:[{box:[I;0,0,0,4,1,4],block:"minecraft:concrete:7"},{box:[I;0,2,0,4,4,4],block:"saros_new_blocks_mod:behandeltes_holz"}],children:[]}}
+saros_new_blocks_mod:behandeltes_holz -2995 65 -418 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2995 65 -417 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2995 65 -416 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2995 65 -415 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2995 65 -414 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2995 65 -413 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2995 65 -412 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2995 65 -411 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2995 65 -410 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2995 65 -409 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2995 65 -408 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2995 65 -407 0 saros_new_blocks_mod:behandeltes_holz
+minecraft:air -2995 66 -418 0 minecraft:air
+minecraft:concrete -2995 66 -417 7 minecraft:concrete
+minecraft:air -2995 66 -416 0 minecraft:air
+minecraft:air -2995 66 -415 0 minecraft:air
+minecraft:air -2995 66 -414 0 minecraft:air
+minecraft:air -2995 66 -413 0 minecraft:air
+minecraft:air -2995 66 -412 0 minecraft:air
+minecraft:air -2995 66 -411 0 minecraft:air
+minecraft:air -2995 66 -410 0 minecraft:air
+minecraft:air -2995 66 -409 0 minecraft:air
+minecraft:air -2995 66 -408 0 minecraft:air
+minecraft:concrete -2995 66 -407 7 minecraft:concrete
+minecraft:air -2995 67 -418 0 minecraft:air
+minecraft:concrete -2995 67 -417 7 minecraft:concrete
+minecraft:air -2995 67 -416 0 minecraft:air
+minecraft:air -2995 67 -415 0 minecraft:air
+minecraft:air -2995 67 -414 0 minecraft:air
+minecraft:air -2995 67 -413 0 minecraft:air
+minecraft:air -2995 67 -412 0 minecraft:air
+minecraft:air -2995 67 -411 0 minecraft:air
+minecraft:air -2995 67 -410 0 minecraft:air
+minecraft:air -2995 67 -409 0 minecraft:air
+minecraft:air -2995 67 -408 0 minecraft:air
+minecraft:concrete -2995 67 -407 7 minecraft:concrete
+minecraft:air -2995 68 -418 0 minecraft:air
+minecraft:concrete -2995 68 -417 7 minecraft:concrete
+simplylight:edge_light_top -2995 68 -416 1 simplylight:edge_light_top
+minecraft:air -2995 68 -415 0 minecraft:air
+minecraft:air -2995 68 -414 0 minecraft:air
+minecraft:air -2995 68 -413 0 minecraft:air
+minecraft:air -2995 68 -412 0 minecraft:air
+minecraft:air -2995 68 -411 0 minecraft:air
+minecraft:air -2995 68 -410 0 minecraft:air
+minecraft:air -2995 68 -409 0 minecraft:air
+simplylight:edge_light_top -2995 68 -408 2 simplylight:edge_light_top
+minecraft:concrete -2995 68 -407 7 minecraft:concrete
+minecraft:air -2995 69 -418 0 minecraft:air
+securitycraft:reinforced_concrete -2995 69 -417 7 securitycraft:reinforced_concrete
+NBT: {owner:"Sarocesch",ownerUUID:"0efb6c02-68d9-41cd-a902-cef5845e39e2",x:-2995,y:69,z:-417,id:"securitycraft:ownable"}
+minecraft:concrete -2995 69 -416 7 minecraft:concrete
+minecraft:concrete -2995 69 -415 7 minecraft:concrete
+minecraft:concrete -2995 69 -414 7 minecraft:concrete
+minecraft:concrete -2995 69 -413 7 minecraft:concrete
+minecraft:concrete -2995 69 -412 7 minecraft:concrete
+minecraft:concrete -2995 69 -411 7 minecraft:concrete
+minecraft:concrete -2995 69 -410 7 minecraft:concrete
+minecraft:concrete -2995 69 -409 7 minecraft:concrete
+minecraft:concrete -2995 69 -408 7 minecraft:concrete
+securitycraft:reinforced_concrete -2995 69 -407 7 securitycraft:reinforced_concrete
+NBT: {owner:"Sarocesch",ownerUUID:"0efb6c02-68d9-41cd-a902-cef5845e39e2",x:-2995,y:69,z:-407,id:"securitycraft:ownable"}
+littletiles:blocklittletiles -2995 70 -418 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2995,y:70,z:-418,id:"minecraft:littletilestileentity",content:{tiles:[{boxes:[[I;0,0,0,4,1,4],[I;0,2,0,4,4,4]],block:"minecraft:concrete:7"}],children:[]}}
+littletiles:blocklittletiles -2995 70 -417 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2995,y:70,z:-417,id:"minecraft:littletilestileentity",content:{tiles:[{boxes:[[I;0,0,0,4,1,4],[I;0,2,0,4,4,4]],block:"minecraft:concrete:7"}],children:[]}}
+littletiles:blocklittletiles -2995 70 -416 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2995,y:70,z:-416,id:"minecraft:littletilestileentity",content:{tiles:[{boxes:[[I;0,0,0,4,1,4],[I;0,2,0,4,4,4]],block:"minecraft:concrete:7"}],children:[]}}
+littletiles:blocklittletiles -2995 70 -415 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2995,y:70,z:-415,id:"minecraft:littletilestileentity",content:{tiles:[{boxes:[[I;0,0,0,4,1,4],[I;0,2,0,4,4,4]],block:"minecraft:concrete:7"}],children:[]}}
+littletiles:blocklittletiles -2995 70 -414 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2995,y:70,z:-414,id:"minecraft:littletilestileentity",content:{tiles:[{boxes:[[I;0,0,0,4,1,4],[I;0,2,0,4,4,4]],block:"minecraft:concrete:7"}],children:[]}}
+littletiles:blocklittletiles -2995 70 -413 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2995,y:70,z:-413,id:"minecraft:littletilestileentity",content:{tiles:[{boxes:[[I;0,0,0,4,1,4],[I;0,2,0,4,4,4]],block:"minecraft:concrete:7"}],children:[]}}
+securitycraft:reinforced_concrete -2995 70 -412 7 securitycraft:reinforced_concrete
+NBT: {owner:"Sarocesch",ownerUUID:"0efb6c02-68d9-41cd-a902-cef5845e39e2",x:-2995,y:70,z:-412,id:"securitycraft:ownable"}
+littletiles:blocklittletiles -2995 70 -411 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2995,y:70,z:-411,id:"minecraft:littletilestileentity",content:{tiles:[{box:[I;0,0,0,4,1,4],block:"minecraft:concrete:7"},{box:[I;0,2,0,4,4,4],block:"saros_new_blocks_mod:behandeltes_holz"}],children:[]}}
+littletiles:blocklittletiles -2995 70 -410 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2995,y:70,z:-410,id:"minecraft:littletilestileentity",content:{tiles:[{box:[I;0,0,0,4,1,4],block:"minecraft:concrete:7"},{box:[I;0,2,0,4,4,4],block:"saros_new_blocks_mod:behandeltes_holz"}],children:[]}}
+littletiles:blocklittletiles -2995 70 -409 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2995,y:70,z:-409,id:"minecraft:littletilestileentity",content:{tiles:[{box:[I;0,0,0,4,1,4],block:"minecraft:concrete:7"},{box:[I;0,2,0,4,4,4],block:"saros_new_blocks_mod:behandeltes_holz"}],children:[]}}
+littletiles:blocklittletiles -2995 70 -408 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2995,y:70,z:-408,id:"minecraft:littletilestileentity",content:{tiles:[{box:[I;0,0,0,4,1,4],block:"minecraft:concrete:7"},{box:[I;0,2,0,4,4,4],block:"saros_new_blocks_mod:behandeltes_holz"}],children:[]}}
+littletiles:blocklittletiles -2995 70 -407 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2995,y:70,z:-407,id:"minecraft:littletilestileentity",content:{tiles:[{box:[I;0,0,0,4,1,4],block:"minecraft:concrete:7"},{box:[I;0,2,0,4,4,4],block:"saros_new_blocks_mod:behandeltes_holz"}],children:[]}}
+saros_new_blocks_mod:behandeltes_holz -2994 65 -418 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2994 65 -417 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2994 65 -416 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2994 65 -415 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2994 65 -414 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2994 65 -413 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2994 65 -412 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2994 65 -411 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2994 65 -410 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2994 65 -409 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2994 65 -408 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2994 65 -407 0 saros_new_blocks_mod:behandeltes_holz
+minecraft:air -2994 66 -418 0 minecraft:air
+minecraft:concrete -2994 66 -417 7 minecraft:concrete
+minecraft:air -2994 66 -416 0 minecraft:air
+minecraft:air -2994 66 -415 0 minecraft:air
+minecraft:air -2994 66 -414 0 minecraft:air
+minecraft:air -2994 66 -413 0 minecraft:air
+minecraft:air -2994 66 -412 0 minecraft:air
+minecraft:air -2994 66 -411 0 minecraft:air
+minecraft:air -2994 66 -410 0 minecraft:air
+minecraft:air -2994 66 -409 0 minecraft:air
+minecraft:air -2994 66 -408 0 minecraft:air
+minecraft:concrete -2994 66 -407 7 minecraft:concrete
+minecraft:air -2994 67 -418 0 minecraft:air
+minecraft:concrete -2994 67 -417 7 minecraft:concrete
+minecraft:air -2994 67 -416 0 minecraft:air
+minecraft:air -2994 67 -415 0 minecraft:air
+minecraft:air -2994 67 -414 0 minecraft:air
+minecraft:air -2994 67 -413 0 minecraft:air
+minecraft:air -2994 67 -412 0 minecraft:air
+minecraft:air -2994 67 -411 0 minecraft:air
+minecraft:air -2994 67 -410 0 minecraft:air
+minecraft:air -2994 67 -409 0 minecraft:air
+minecraft:air -2994 67 -408 0 minecraft:air
+minecraft:concrete -2994 67 -407 7 minecraft:concrete
+minecraft:air -2994 68 -418 0 minecraft:air
+minecraft:concrete -2994 68 -417 7 minecraft:concrete
+simplylight:edge_light_top -2994 68 -416 1 simplylight:edge_light_top
+minecraft:air -2994 68 -415 0 minecraft:air
+minecraft:air -2994 68 -414 0 minecraft:air
+minecraft:air -2994 68 -413 0 minecraft:air
+minecraft:air -2994 68 -412 0 minecraft:air
+minecraft:air -2994 68 -411 0 minecraft:air
+minecraft:air -2994 68 -410 0 minecraft:air
+minecraft:air -2994 68 -409 0 minecraft:air
+simplylight:edge_light_top -2994 68 -408 2 simplylight:edge_light_top
+minecraft:concrete -2994 68 -407 7 minecraft:concrete
+minecraft:air -2994 69 -418 0 minecraft:air
+securitycraft:reinforced_concrete -2994 69 -417 7 securitycraft:reinforced_concrete
+NBT: {owner:"Sarocesch",ownerUUID:"0efb6c02-68d9-41cd-a902-cef5845e39e2",x:-2994,y:69,z:-417,id:"securitycraft:ownable"}
+minecraft:concrete -2994 69 -416 7 minecraft:concrete
+minecraft:concrete -2994 69 -415 7 minecraft:concrete
+minecraft:concrete -2994 69 -414 7 minecraft:concrete
+minecraft:concrete -2994 69 -413 7 minecraft:concrete
+minecraft:concrete -2994 69 -412 7 minecraft:concrete
+minecraft:concrete -2994 69 -411 7 minecraft:concrete
+minecraft:concrete -2994 69 -410 7 minecraft:concrete
+minecraft:concrete -2994 69 -409 7 minecraft:concrete
+minecraft:concrete -2994 69 -408 7 minecraft:concrete
+securitycraft:reinforced_concrete -2994 69 -407 7 securitycraft:reinforced_concrete
+NBT: {owner:"Sarocesch",ownerUUID:"0efb6c02-68d9-41cd-a902-cef5845e39e2",x:-2994,y:69,z:-407,id:"securitycraft:ownable"}
+littletiles:blocklittletiles -2994 70 -418 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2994,y:70,z:-418,id:"minecraft:littletilestileentity",content:{tiles:[{boxes:[[I;0,0,0,4,1,4],[I;0,2,0,4,4,4]],block:"minecraft:concrete:7"}],children:[]}}
+littletiles:blocklittletiles -2994 70 -417 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2994,y:70,z:-417,id:"minecraft:littletilestileentity",content:{tiles:[{boxes:[[I;0,0,0,4,1,4],[I;0,2,0,4,4,4]],block:"minecraft:concrete:7"}],children:[]}}
+littletiles:blocklittletiles -2994 70 -416 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2994,y:70,z:-416,id:"minecraft:littletilestileentity",content:{tiles:[{boxes:[[I;0,0,0,4,1,4],[I;0,2,0,4,4,4]],block:"minecraft:concrete:7"}],children:[]}}
+littletiles:blocklittletiles -2994 70 -415 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2994,y:70,z:-415,id:"minecraft:littletilestileentity",content:{tiles:[{boxes:[[I;0,0,0,4,1,4],[I;0,2,0,4,4,4]],block:"minecraft:concrete:7"}],children:[]}}
+littletiles:blocklittletiles -2994 70 -414 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2994,y:70,z:-414,id:"minecraft:littletilestileentity",content:{tiles:[{boxes:[[I;0,0,0,4,1,4],[I;0,2,0,4,4,4]],block:"minecraft:concrete:7"}],children:[]}}
+littletiles:blocklittletiles -2994 70 -413 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2994,y:70,z:-413,id:"minecraft:littletilestileentity",content:{tiles:[{boxes:[[I;0,0,0,4,1,4],[I;0,2,0,4,4,4]],block:"minecraft:concrete:7"}],children:[]}}
+securitycraft:reinforced_concrete -2994 70 -412 7 securitycraft:reinforced_concrete
+NBT: {owner:"Sarocesch",ownerUUID:"0efb6c02-68d9-41cd-a902-cef5845e39e2",x:-2994,y:70,z:-412,id:"securitycraft:ownable"}
+littletiles:blocklittletiles -2994 70 -411 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2994,y:70,z:-411,id:"minecraft:littletilestileentity",content:{tiles:[{box:[I;0,0,0,4,1,4],block:"minecraft:concrete:7"},{box:[I;0,2,0,4,4,4],block:"saros_new_blocks_mod:behandeltes_holz"}],children:[]}}
+littletiles:blocklittletiles -2994 70 -410 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2994,y:70,z:-410,id:"minecraft:littletilestileentity",content:{tiles:[{box:[I;0,0,0,4,1,4],block:"minecraft:concrete:7"},{box:[I;0,2,0,4,4,4],block:"saros_new_blocks_mod:behandeltes_holz"}],children:[]}}
+littletiles:blocklittletiles -2994 70 -409 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2994,y:70,z:-409,id:"minecraft:littletilestileentity",content:{tiles:[{box:[I;0,0,0,4,1,4],block:"minecraft:concrete:7"},{box:[I;0,2,0,4,4,4],block:"saros_new_blocks_mod:behandeltes_holz"}],children:[]}}
+littletiles:blocklittletiles -2994 70 -408 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2994,y:70,z:-408,id:"minecraft:littletilestileentity",content:{tiles:[{box:[I;0,0,0,4,1,4],block:"minecraft:concrete:7"},{box:[I;0,2,0,4,4,4],block:"saros_new_blocks_mod:behandeltes_holz"}],children:[]}}
+littletiles:blocklittletiles -2994 70 -407 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2994,y:70,z:-407,id:"minecraft:littletilestileentity",content:{tiles:[{box:[I;0,0,0,4,1,4],block:"minecraft:concrete:7"},{box:[I;0,2,0,4,4,4],block:"saros_new_blocks_mod:behandeltes_holz"}],children:[]}}
+saros_new_blocks_mod:behandeltes_holz -2993 65 -418 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2993 65 -417 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2993 65 -416 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2993 65 -415 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2993 65 -414 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2993 65 -413 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2993 65 -412 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2993 65 -411 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2993 65 -410 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2993 65 -409 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2993 65 -408 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2993 65 -407 0 saros_new_blocks_mod:behandeltes_holz
+minecraft:concrete -2993 66 -418 7 minecraft:concrete
+minecraft:concrete -2993 66 -417 7 minecraft:concrete
+minecraft:air -2993 66 -416 0 minecraft:air
+minecraft:air -2993 66 -415 0 minecraft:air
+minecraft:air -2993 66 -414 0 minecraft:air
+littletiles:blocklittletiles -2993 66 -413 0 littletiles:blocklittletiles
+NBT: {x:-2993,y:66,z:-413,id:"minecraft:littletilestileentity",content:{tiles:[{box:[I;15,15,15,16,16,16],block:"minecraft:concrete:7"}],children:[]}}
+simplylight:edge_light_top -2993 66 -412 4 simplylight:edge_light_top
+simplylight:edge_light_top -2993 66 -411 4 simplylight:edge_light_top
+littletiles:blocklittletiles -2993 66 -410 0 littletiles:blocklittletiles
+NBT: {x:-2993,y:66,z:-410,id:"minecraft:littletilestileentity",content:{tiles:[{box:[I;15,15,0,16,16,1],block:"minecraft:concrete:7"}],children:[]}}
+minecraft:air -2993 66 -409 0 minecraft:air
+minecraft:air -2993 66 -408 0 minecraft:air
+webdisplays:screen -2993 66 -407 0 webdisplays:screen
+minecraft:concrete -2993 67 -418 7 minecraft:concrete
+minecraft:concrete -2993 67 -417 7 minecraft:concrete
+minecraft:air -2993 67 -416 0 minecraft:air
+minecraft:air -2993 67 -415 0 minecraft:air
+minecraft:air -2993 67 -414 0 minecraft:air
+littletiles:blocklittletiles -2993 67 -413 0 littletiles:blocklittletiles
+NBT: {grid:32,x:-2993,y:67,z:-413,id:"minecraft:littletilestileentity",content:{tiles:[{box:[I;30,0,30,32,1,32],block:"minecraft:concrete:7"}],children:[]}}
+littletiles:blocklittletiles -2993 67 -412 0 littletiles:blocklittletiles
+NBT: {grid:32,x:-2993,y:67,z:-412,id:"minecraft:littletilestileentity",content:{tiles:[{box:[I;30,0,0,32,1,32],block:"minecraft:concrete:7"}],children:[]}}
+littletiles:blocklittletiles -2993 67 -411 0 littletiles:blocklittletiles
+NBT: {grid:32,x:-2993,y:67,z:-411,id:"minecraft:littletilestileentity",content:{tiles:[{box:[I;30,0,0,32,1,32],block:"minecraft:concrete:7"}],children:[]}}
+littletiles:blocklittletiles -2993 67 -410 0 littletiles:blocklittletiles
+NBT: {grid:32,x:-2993,y:67,z:-410,id:"minecraft:littletilestileentity",content:{tiles:[{box:[I;30,0,0,32,1,2],block:"minecraft:concrete:7"}],children:[]}}
+minecraft:air -2993 67 -409 0 minecraft:air
+minecraft:air -2993 67 -408 0 minecraft:air
+webdisplays:screen -2993 67 -407 0 webdisplays:screen
+minecraft:concrete -2993 68 -418 7 minecraft:concrete
+minecraft:concrete -2993 68 -417 7 minecraft:concrete
+simplylight:edge_light_top -2993 68 -416 1 simplylight:edge_light_top
+minecraft:air -2993 68 -415 0 minecraft:air
+minecraft:air -2993 68 -414 0 minecraft:air
+minecraft:air -2993 68 -413 0 minecraft:air
+minecraft:air -2993 68 -412 0 minecraft:air
+minecraft:air -2993 68 -411 0 minecraft:air
+minecraft:air -2993 68 -410 0 minecraft:air
+minecraft:air -2993 68 -409 0 minecraft:air
+simplylight:edge_light_top -2993 68 -408 2 simplylight:edge_light_top
+webdisplays:screen -2993 68 -407 0 webdisplays:screen
+securitycraft:reinforced_concrete -2993 69 -418 7 securitycraft:reinforced_concrete
+NBT: {owner:"Sarocesch",ownerUUID:"0efb6c02-68d9-41cd-a902-cef5845e39e2",x:-2993,y:69,z:-418,id:"securitycraft:ownable"}
+securitycraft:reinforced_concrete -2993 69 -417 7 securitycraft:reinforced_concrete
+NBT: {owner:"Sarocesch",ownerUUID:"0efb6c02-68d9-41cd-a902-cef5845e39e2",x:-2993,y:69,z:-417,id:"securitycraft:ownable"}
+minecraft:concrete -2993 69 -416 7 minecraft:concrete
+minecraft:concrete -2993 69 -415 7 minecraft:concrete
+minecraft:concrete -2993 69 -414 7 minecraft:concrete
+minecraft:concrete -2993 69 -413 7 minecraft:concrete
+minecraft:concrete -2993 69 -412 7 minecraft:concrete
+minecraft:concrete -2993 69 -411 7 minecraft:concrete
+minecraft:concrete -2993 69 -410 7 minecraft:concrete
+minecraft:concrete -2993 69 -409 7 minecraft:concrete
+minecraft:concrete -2993 69 -408 7 minecraft:concrete
+securitycraft:reinforced_concrete -2993 69 -407 7 securitycraft:reinforced_concrete
+NBT: {owner:"Sarocesch",ownerUUID:"0efb6c02-68d9-41cd-a902-cef5845e39e2",x:-2993,y:69,z:-407,id:"securitycraft:ownable"}
+littletiles:blocklittletiles -2993 70 -418 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2993,y:70,z:-418,id:"minecraft:littletilestileentity",content:{tiles:[{boxes:[[I;0,0,0,4,1,4],[I;0,2,0,4,4,4]],block:"minecraft:concrete:7"}],children:[]}}
+littletiles:blocklittletiles -2993 70 -417 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2993,y:70,z:-417,id:"minecraft:littletilestileentity",content:{tiles:[{boxes:[[I;0,0,0,4,1,4],[I;0,2,0,4,4,4]],block:"minecraft:concrete:7"}],children:[]}}
+littletiles:blocklittletiles -2993 70 -416 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2993,y:70,z:-416,id:"minecraft:littletilestileentity",content:{tiles:[{boxes:[[I;0,0,0,4,1,4],[I;0,2,0,4,4,4]],block:"minecraft:concrete:7"}],children:[]}}
+littletiles:blocklittletiles -2993 70 -415 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2993,y:70,z:-415,id:"minecraft:littletilestileentity",content:{tiles:[{boxes:[[I;0,0,0,4,1,4],[I;0,2,0,4,4,4]],block:"minecraft:concrete:7"}],children:[]}}
+littletiles:blocklittletiles -2993 70 -414 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2993,y:70,z:-414,id:"minecraft:littletilestileentity",content:{tiles:[{boxes:[[I;0,0,0,4,1,4],[I;0,2,0,4,4,4]],block:"minecraft:concrete:7"}],children:[]}}
+littletiles:blocklittletiles -2993 70 -413 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2993,y:70,z:-413,id:"minecraft:littletilestileentity",content:{tiles:[{boxes:[[I;0,0,0,4,1,4],[I;0,2,0,4,4,4]],block:"minecraft:concrete:7"}],children:[]}}
+securitycraft:reinforced_concrete -2993 70 -412 7 securitycraft:reinforced_concrete
+NBT: {owner:"Sarocesch",ownerUUID:"0efb6c02-68d9-41cd-a902-cef5845e39e2",x:-2993,y:70,z:-412,id:"securitycraft:ownable"}
+littletiles:blocklittletiles -2993 70 -411 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2993,y:70,z:-411,id:"minecraft:littletilestileentity",content:{tiles:[{box:[I;0,0,0,4,1,4],block:"minecraft:concrete:7"},{box:[I;0,2,0,4,4,4],block:"saros_new_blocks_mod:behandeltes_holz"}],children:[]}}
+littletiles:blocklittletiles -2993 70 -410 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2993,y:70,z:-410,id:"minecraft:littletilestileentity",content:{tiles:[{box:[I;0,0,0,4,1,4],block:"minecraft:concrete:7"},{box:[I;0,2,0,4,4,4],block:"saros_new_blocks_mod:behandeltes_holz"}],children:[]}}
+littletiles:blocklittletiles -2993 70 -409 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2993,y:70,z:-409,id:"minecraft:littletilestileentity",content:{tiles:[{box:[I;0,0,0,4,1,4],block:"minecraft:concrete:7"},{box:[I;0,2,0,4,4,4],block:"saros_new_blocks_mod:behandeltes_holz"}],children:[]}}
+littletiles:blocklittletiles -2993 70 -408 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2993,y:70,z:-408,id:"minecraft:littletilestileentity",content:{tiles:[{box:[I;0,0,0,4,1,4],block:"minecraft:concrete:7"},{box:[I;0,2,0,4,4,4],block:"saros_new_blocks_mod:behandeltes_holz"}],children:[]}}
+littletiles:blocklittletiles -2993 70 -407 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2993,y:70,z:-407,id:"minecraft:littletilestileentity",content:{tiles:[{box:[I;0,0,0,4,1,4],block:"minecraft:concrete:7"},{box:[I;0,2,0,4,4,4],block:"saros_new_blocks_mod:behandeltes_holz"}],children:[]}}
+saros_new_blocks_mod:behandeltes_holz -2992 65 -418 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2992 65 -417 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2992 65 -416 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2992 65 -415 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2992 65 -414 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2992 65 -413 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2992 65 -412 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2992 65 -411 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2992 65 -410 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2992 65 -409 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2992 65 -408 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2992 65 -407 0 saros_new_blocks_mod:behandeltes_holz
+minecraft:air -2992 66 -418 0 minecraft:air
+minecraft:concrete -2992 66 -417 7 minecraft:concrete
+minecraft:air -2992 66 -416 0 minecraft:air
+minecraft:air -2992 66 -415 0 minecraft:air
+minecraft:air -2992 66 -414 0 minecraft:air
+simplylight:edge_light_top -2992 66 -413 2 simplylight:edge_light_top
+minecraft:concrete -2992 66 -412 7 minecraft:concrete
+minecraft:concrete -2992 66 -411 7 minecraft:concrete
+simplylight:edge_light_top -2992 66 -410 1 simplylight:edge_light_top
+minecraft:air -2992 66 -409 0 minecraft:air
+minecraft:air -2992 66 -408 0 minecraft:air
+webdisplays:screen -2992 66 -407 0 webdisplays:screen
+minecraft:air -2992 67 -418 0 minecraft:air
+minecraft:concrete -2992 67 -417 7 minecraft:concrete
+minecraft:air -2992 67 -416 0 minecraft:air
+minecraft:air -2992 67 -415 0 minecraft:air
+minecraft:air -2992 67 -414 0 minecraft:air
+littletiles:blocklittletiles -2992 67 -413 0 littletiles:blocklittletiles
+NBT: {grid:32,x:-2992,y:67,z:-413,id:"minecraft:littletilestileentity",content:{tiles:[{box:[I;0,0,30,32,1,32],block:"minecraft:concrete:7"}],children:[]}}
+minecraft:air -2992 67 -412 0 minecraft:air
+minecraft:air -2992 67 -411 0 minecraft:air
+littletiles:blocklittletiles -2992 67 -410 0 littletiles:blocklittletiles
+NBT: {grid:32,x:-2992,y:67,z:-410,id:"minecraft:littletilestileentity",content:{tiles:[{box:[I;0,0,0,32,1,2],block:"minecraft:concrete:7"}],children:[]}}
+minecraft:air -2992 67 -409 0 minecraft:air
+minecraft:air -2992 67 -408 0 minecraft:air
+webdisplays:screen -2992 67 -407 0 webdisplays:screen
+simplylight:edge_light_top -2992 68 -418 10 simplylight:edge_light_top
+minecraft:concrete -2992 68 -417 7 minecraft:concrete
+simplylight:edge_light_top -2992 68 -416 1 simplylight:edge_light_top
+minecraft:air -2992 68 -415 0 minecraft:air
+minecraft:air -2992 68 -414 0 minecraft:air
+minecraft:air -2992 68 -413 0 minecraft:air
+minecraft:air -2992 68 -412 0 minecraft:air
+minecraft:air -2992 68 -411 0 minecraft:air
+minecraft:air -2992 68 -410 0 minecraft:air
+minecraft:air -2992 68 -409 0 minecraft:air
+simplylight:edge_light_top -2992 68 -408 2 simplylight:edge_light_top
+webdisplays:screen -2992 68 -407 0 webdisplays:screen
+minecraft:concrete -2992 69 -418 7 minecraft:concrete
+securitycraft:reinforced_concrete -2992 69 -417 7 securitycraft:reinforced_concrete
+NBT: {owner:"Sarocesch",ownerUUID:"0efb6c02-68d9-41cd-a902-cef5845e39e2",x:-2992,y:69,z:-417,id:"securitycraft:ownable"}
+minecraft:concrete -2992 69 -416 7 minecraft:concrete
+minecraft:concrete -2992 69 -415 7 minecraft:concrete
+minecraft:concrete -2992 69 -414 7 minecraft:concrete
+minecraft:concrete -2992 69 -413 7 minecraft:concrete
+minecraft:concrete -2992 69 -412 7 minecraft:concrete
+minecraft:concrete -2992 69 -411 7 minecraft:concrete
+minecraft:concrete -2992 69 -410 7 minecraft:concrete
+minecraft:concrete -2992 69 -409 7 minecraft:concrete
+minecraft:concrete -2992 69 -408 7 minecraft:concrete
+securitycraft:reinforced_concrete -2992 69 -407 7 securitycraft:reinforced_concrete
+NBT: {owner:"Sarocesch",ownerUUID:"0efb6c02-68d9-41cd-a902-cef5845e39e2",x:-2992,y:69,z:-407,id:"securitycraft:ownable"}
+littletiles:blocklittletiles -2992 70 -418 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2992,y:70,z:-418,id:"minecraft:littletilestileentity",content:{tiles:[{boxes:[[I;0,0,0,4,1,4],[I;0,2,0,4,4,4]],block:"minecraft:concrete:7"}],children:[]}}
+littletiles:blocklittletiles -2992 70 -417 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2992,y:70,z:-417,id:"minecraft:littletilestileentity",content:{tiles:[{boxes:[[I;0,0,0,4,1,4],[I;0,2,0,4,4,4]],block:"minecraft:concrete:7"}],children:[]}}
+littletiles:blocklittletiles -2992 70 -416 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2992,y:70,z:-416,id:"minecraft:littletilestileentity",content:{tiles:[{boxes:[[I;0,0,0,4,1,4],[I;0,2,0,4,4,4]],block:"minecraft:concrete:7"}],children:[]}}
+littletiles:blocklittletiles -2992 70 -415 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2992,y:70,z:-415,id:"minecraft:littletilestileentity",content:{tiles:[{boxes:[[I;0,0,0,4,1,4],[I;0,2,0,4,4,4]],block:"minecraft:concrete:7"}],children:[]}}
+littletiles:blocklittletiles -2992 70 -414 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2992,y:70,z:-414,id:"minecraft:littletilestileentity",content:{tiles:[{boxes:[[I;0,0,0,4,1,4],[I;0,2,0,4,4,4]],block:"minecraft:concrete:7"}],children:[]}}
+littletiles:blocklittletiles -2992 70 -413 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2992,y:70,z:-413,id:"minecraft:littletilestileentity",content:{tiles:[{boxes:[[I;0,0,0,4,1,4],[I;0,2,0,4,4,4]],block:"minecraft:concrete:7"}],children:[]}}
+securitycraft:reinforced_concrete -2992 70 -412 7 securitycraft:reinforced_concrete
+NBT: {owner:"Sarocesch",ownerUUID:"0efb6c02-68d9-41cd-a902-cef5845e39e2",x:-2992,y:70,z:-412,id:"securitycraft:ownable"}
+littletiles:blocklittletiles -2992 70 -411 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2992,y:70,z:-411,id:"minecraft:littletilestileentity",content:{tiles:[{box:[I;0,0,0,4,1,4],block:"minecraft:concrete:7"},{box:[I;0,2,0,4,4,4],block:"saros_new_blocks_mod:behandeltes_holz"}],children:[]}}
+littletiles:blocklittletiles -2992 70 -410 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2992,y:70,z:-410,id:"minecraft:littletilestileentity",content:{tiles:[{box:[I;0,0,0,4,1,4],block:"minecraft:concrete:7"},{box:[I;0,2,0,4,4,4],block:"saros_new_blocks_mod:behandeltes_holz"}],children:[]}}
+littletiles:blocklittletiles -2992 70 -409 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2992,y:70,z:-409,id:"minecraft:littletilestileentity",content:{tiles:[{box:[I;0,0,0,4,1,4],block:"minecraft:concrete:7"},{box:[I;0,2,0,4,4,4],block:"saros_new_blocks_mod:behandeltes_holz"}],children:[]}}
+littletiles:blocklittletiles -2992 70 -408 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2992,y:70,z:-408,id:"minecraft:littletilestileentity",content:{tiles:[{box:[I;0,0,0,4,1,4],block:"minecraft:concrete:7"},{box:[I;0,2,0,4,4,4],block:"saros_new_blocks_mod:behandeltes_holz"}],children:[]}}
+littletiles:blocklittletiles -2992 70 -407 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2992,y:70,z:-407,id:"minecraft:littletilestileentity",content:{tiles:[{box:[I;0,0,0,4,1,4],block:"minecraft:concrete:7"},{box:[I;0,2,0,4,4,4],block:"saros_new_blocks_mod:behandeltes_holz"}],children:[]}}
+saros_new_blocks_mod:behandeltes_holz -2991 65 -418 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2991 65 -417 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2991 65 -416 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2991 65 -415 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2991 65 -414 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2991 65 -413 0 saros_new_blocks_mod:behandeltes_holz
+minecraft:concrete -2991 65 -412 7 minecraft:concrete
+webdisplays:peripheral -2991 65 -411 0 webdisplays:peripheral
+NBT: {WDScreen:{Side:2b,X:-2988,Y:66,Z:-407},x:-2991,y:65,z:-411,id:"webdisplays:keyboard"}
+saros_new_blocks_mod:behandeltes_holz -2991 65 -410 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2991 65 -409 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2991 65 -408 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2991 65 -407 0 saros_new_blocks_mod:behandeltes_holz
+minecraft:air -2991 66 -418 0 minecraft:air
+malisisdoors:customdoor -2991 66 -417 1 malisisdoors:customdoor
+NBT: {item:9192,redstoneBehavior:0,centered:0b,proximityDetection:1b,sound:"silent_door",openingTime:6,autoCloseTime:12,topMaterial:"minecraft:stained_glass",bottomMaterial:"minecraft:concrete",topMaterialMetadata:9,x:-2991,frameMetadata:7,bottomMaterialMetadata:0,y:66,z:-417,block:3819,id:"minecraft:customdoortileentity",state:0,doubleDoor:1b,movement:"sliding_door",frame:"minecraft:concrete"}
+minecraft:air -2991 66 -416 0 minecraft:air
+minecraft:air -2991 66 -415 0 minecraft:air
+minecraft:air -2991 66 -414 0 minecraft:air
+simplylight:edge_light_top -2991 66 -413 2 simplylight:edge_light_top
+minecraft:concrete -2991 66 -412 7 minecraft:concrete
+minecraft:concrete -2991 66 -411 7 minecraft:concrete
+simplylight:edge_light_top -2991 66 -410 1 simplylight:edge_light_top
+minecraft:air -2991 66 -409 0 minecraft:air
+minecraft:air -2991 66 -408 0 minecraft:air
+webdisplays:screen -2991 66 -407 0 webdisplays:screen
+minecraft:air -2991 67 -418 0 minecraft:air
+malisisdoors:customdoor -2991 67 -417 9 malisisdoors:customdoor
+minecraft:air -2991 67 -416 0 minecraft:air
+minecraft:air -2991 67 -415 0 minecraft:air
+minecraft:air -2991 67 -414 0 minecraft:air
+littletiles:blocklittletiles -2991 67 -413 0 littletiles:blocklittletiles
+NBT: {grid:32,x:-2991,y:67,z:-413,id:"minecraft:littletilestileentity",content:{tiles:[{box:[I;0,0,30,32,1,32],block:"minecraft:concrete:7"}],children:[]}}
+minecraft:air -2991 67 -412 0 minecraft:air
+props:blockprops -2991 67 -411 2 props:blockprops
+NBT: {slaves:[],BlockType:329,isRunning:0b,x:-2991,y:67,z:-411,id:"props:com.mia.props.common.tileprops",BlockRotation:9}
+littletiles:blocklittletiles -2991 67 -410 0 littletiles:blocklittletiles
+NBT: {grid:32,x:-2991,y:67,z:-410,id:"minecraft:littletilestileentity",content:{tiles:[{box:[I;0,0,0,32,1,2],block:"minecraft:concrete:7"}],children:[]}}
+minecraft:air -2991 67 -409 0 minecraft:air
+minecraft:air -2991 67 -408 0 minecraft:air
+webdisplays:screen -2991 67 -407 0 webdisplays:screen
+simplylight:edge_light_top -2991 68 -418 2 simplylight:edge_light_top
+minecraft:concrete -2991 68 -417 7 minecraft:concrete
+simplylight:edge_light_top -2991 68 -416 1 simplylight:edge_light_top
+minecraft:air -2991 68 -415 0 minecraft:air
+minecraft:air -2991 68 -414 0 minecraft:air
+minecraft:air -2991 68 -413 0 minecraft:air
+minecraft:air -2991 68 -412 0 minecraft:air
+minecraft:air -2991 68 -411 0 minecraft:air
+minecraft:air -2991 68 -410 0 minecraft:air
+minecraft:air -2991 68 -409 0 minecraft:air
+simplylight:edge_light_top -2991 68 -408 2 simplylight:edge_light_top
+webdisplays:screen -2991 68 -407 0 webdisplays:screen
+minecraft:concrete -2991 69 -418 7 minecraft:concrete
+minecraft:concrete -2991 69 -417 7 minecraft:concrete
+minecraft:concrete -2991 69 -416 7 minecraft:concrete
+minecraft:concrete -2991 69 -415 7 minecraft:concrete
+minecraft:concrete -2991 69 -414 7 minecraft:concrete
+minecraft:concrete -2991 69 -413 7 minecraft:concrete
+minecraft:concrete -2991 69 -412 7 minecraft:concrete
+minecraft:concrete -2991 69 -411 7 minecraft:concrete
+minecraft:concrete -2991 69 -410 7 minecraft:concrete
+minecraft:concrete -2991 69 -409 7 minecraft:concrete
+minecraft:concrete -2991 69 -408 7 minecraft:concrete
+minecraft:concrete -2991 69 -407 7 minecraft:concrete
+littletiles:blocklittletiles -2991 70 -418 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2991,y:70,z:-418,id:"minecraft:littletilestileentity",content:{tiles:[{boxes:[[I;0,0,0,4,1,4],[I;0,2,0,4,4,4]],block:"minecraft:concrete:7"}],children:[]}}
+littletiles:blocklittletiles -2991 70 -417 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2991,y:70,z:-417,id:"minecraft:littletilestileentity",content:{tiles:[{boxes:[[I;0,0,0,4,1,4],[I;0,2,0,4,4,4]],block:"minecraft:concrete:7"}],children:[]}}
+littletiles:blocklittletiles -2991 70 -416 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2991,y:70,z:-416,id:"minecraft:littletilestileentity",content:{tiles:[{boxes:[[I;0,0,0,4,1,4],[I;0,2,0,4,4,4]],block:"minecraft:concrete:7"}],children:[]}}
+littletiles:blocklittletiles -2991 70 -415 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2991,y:70,z:-415,id:"minecraft:littletilestileentity",content:{tiles:[{boxes:[[I;0,0,0,4,1,4],[I;0,2,0,4,4,4]],block:"minecraft:concrete:7"}],children:[]}}
+littletiles:blocklittletiles -2991 70 -414 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2991,y:70,z:-414,id:"minecraft:littletilestileentity",content:{tiles:[{boxes:[[I;0,0,0,4,1,4],[I;0,2,0,4,4,4]],block:"minecraft:concrete:7"}],children:[]}}
+littletiles:blocklittletiles -2991 70 -413 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2991,y:70,z:-413,id:"minecraft:littletilestileentity",content:{tiles:[{boxes:[[I;0,0,0,4,1,4],[I;0,2,0,4,4,4]],block:"minecraft:concrete:7"}],children:[]}}
+securitycraft:reinforced_concrete -2991 70 -412 7 securitycraft:reinforced_concrete
+NBT: {owner:"Sarocesch",ownerUUID:"0efb6c02-68d9-41cd-a902-cef5845e39e2",x:-2991,y:70,z:-412,id:"securitycraft:ownable"}
+littletiles:blocklittletiles -2991 70 -411 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2991,y:70,z:-411,id:"minecraft:littletilestileentity",content:{tiles:[{box:[I;0,0,0,4,1,4],block:"minecraft:concrete:7"},{box:[I;0,2,0,4,4,4],block:"saros_new_blocks_mod:behandeltes_holz"}],children:[]}}
+littletiles:blocklittletiles -2991 70 -410 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2991,y:70,z:-410,id:"minecraft:littletilestileentity",content:{tiles:[{box:[I;0,0,0,4,1,4],block:"minecraft:concrete:7"},{box:[I;0,2,0,4,4,4],block:"saros_new_blocks_mod:behandeltes_holz"}],children:[]}}
+littletiles:blocklittletiles -2991 70 -409 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2991,y:70,z:-409,id:"minecraft:littletilestileentity",content:{tiles:[{box:[I;0,0,0,4,1,4],block:"minecraft:concrete:7"},{box:[I;0,2,0,4,4,4],block:"saros_new_blocks_mod:behandeltes_holz"}],children:[]}}
+littletiles:blocklittletiles -2991 70 -408 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2991,y:70,z:-408,id:"minecraft:littletilestileentity",content:{tiles:[{box:[I;0,0,0,4,1,4],block:"minecraft:concrete:7"},{box:[I;0,2,0,4,4,4],block:"saros_new_blocks_mod:behandeltes_holz"}],children:[]}}
+littletiles:blocklittletiles -2991 70 -407 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2991,y:70,z:-407,id:"minecraft:littletilestileentity",content:{tiles:[{box:[I;0,0,0,4,1,4],block:"minecraft:concrete:7"},{box:[I;0,2,0,4,4,4],block:"saros_new_blocks_mod:behandeltes_holz"}],children:[]}}
+saros_new_blocks_mod:behandeltes_holz -2990 65 -418 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2990 65 -417 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2990 65 -416 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2990 65 -415 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2990 65 -414 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2990 65 -413 0 saros_new_blocks_mod:behandeltes_holz
+minecraft:concrete -2990 65 -412 7 minecraft:concrete
+webdisplays:keyboard -2990 65 -411 0 webdisplays:keyboard
+littletiles:blocklittletiles -2990 65 -410 0 littletiles:blocklittletiles
+NBT: {x:-2990,y:65,z:-410,id:"minecraft:littletilestileentity",content:{tiles:[{boxes:[[I;0,0,0,7,16,16],[I;7,0,0,16,15,16],[I;7,15,1,16,16,16],[I;8,15,0,16,16,1]],block:"saros_new_blocks_mod:behandeltes_holz"}],children:[]}}
+saros_new_blocks_mod:behandeltes_holz -2990 65 -409 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2990 65 -408 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2990 65 -407 0 saros_new_blocks_mod:behandeltes_holz
+minecraft:air -2990 66 -418 0 minecraft:air
+malisisdoors:customdoor -2990 66 -417 1 malisisdoors:customdoor
+NBT: {item:9192,redstoneBehavior:0,centered:0b,proximityDetection:1b,sound:"silent_door",openingTime:6,autoCloseTime:12,topMaterial:"minecraft:stained_glass",bottomMaterial:"minecraft:concrete",topMaterialMetadata:9,x:-2990,frameMetadata:7,bottomMaterialMetadata:0,y:66,z:-417,block:3819,id:"minecraft:customdoortileentity",state:0,doubleDoor:1b,movement:"sliding_door",frame:"minecraft:concrete"}
+minecraft:air -2990 66 -416 0 minecraft:air
+minecraft:air -2990 66 -415 0 minecraft:air
+minecraft:air -2990 66 -414 0 minecraft:air
+simplylight:edge_light_top -2990 66 -413 2 simplylight:edge_light_top
+minecraft:concrete -2990 66 -412 7 minecraft:concrete
+minecraft:concrete -2990 66 -411 7 minecraft:concrete
+simplylight:edge_light_top -2990 66 -410 1 simplylight:edge_light_top
+minecraft:air -2990 66 -409 0 minecraft:air
+minecraft:air -2990 66 -408 0 minecraft:air
+webdisplays:screen -2990 66 -407 0 webdisplays:screen
+minecraft:air -2990 67 -418 0 minecraft:air
+malisisdoors:customdoor -2990 67 -417 8 malisisdoors:customdoor
+minecraft:air -2990 67 -416 0 minecraft:air
+minecraft:air -2990 67 -415 0 minecraft:air
+minecraft:air -2990 67 -414 0 minecraft:air
+littletiles:blocklittletiles -2990 67 -413 0 littletiles:blocklittletiles
+NBT: {grid:32,x:-2990,y:67,z:-413,id:"minecraft:littletilestileentity",content:{tiles:[{box:[I;0,0,30,32,1,32],block:"minecraft:concrete:7"}],children:[]}}
+cfm:digital_clock -2990 67 -412 0 cfm:digital_clock
+NBT: {color:14b,x:-2990,y:67,z:-412,id:"minecraft:cfmdigitalclock",textColor:0b}
+cdm:laptop -2990 67 -411 2 cdm:laptop
+NBT: {system_data:{InstalledApps:["cdm.note_stash","cdm.pixel_painter"],CurrentWallpaper:4,Settings:{showAllApps:1b,colorScheme:{headerColor:-6971482,backgroundColor:-11315103,itemBackgroundColor:-6381922,backgroundSecondaryColor:0,textColor:-1,textSecondaryColor:-6558222,itemHighlightColor:-9079435}}},file_system:{external_drive:{root:{data:{protected:1b,files:{}},file_name:"Root"},name:"Flash Drive",uuid:"6e3fe225-7f9a-46be-b951-4bb69e0be826"},external_drive_color:1b,drives:[],main_drive:{root:{data:{protected:1b,files:{"Application Data":{protected:1b,files:{}},Home:{protected:1b,files:{}}}},file_name:"Root"},name:"Root"}},color:1b,x:-2990,y:67,z:-411,connection:{id:"fa7c824c-e76e-4288-8508-f2967cf1c76a"},id:"cdm:laptop",deviceId:"8dc64c25-f09a-40e6-8d95-90e46716f69a",open:0b}
+littletiles:blocklittletiles -2990 67 -410 0 littletiles:blocklittletiles
+NBT: {grid:32,x:-2990,y:67,z:-410,id:"minecraft:littletilestileentity",content:{tiles:[{box:[I;0,0,0,32,1,2],block:"minecraft:concrete:7"}],children:[]}}
+minecraft:air -2990 67 -409 0 minecraft:air
+minecraft:air -2990 67 -408 0 minecraft:air
+webdisplays:screen -2990 67 -407 0 webdisplays:screen
+simplylight:edge_light_top -2990 68 -418 2 simplylight:edge_light_top
+minecraft:concrete -2990 68 -417 7 minecraft:concrete
+simplylight:edge_light_top -2990 68 -416 1 simplylight:edge_light_top
+minecraft:air -2990 68 -415 0 minecraft:air
+minecraft:air -2990 68 -414 0 minecraft:air
+minecraft:air -2990 68 -413 0 minecraft:air
+minecraft:air -2990 68 -412 0 minecraft:air
+minecraft:air -2990 68 -411 0 minecraft:air
+minecraft:air -2990 68 -410 0 minecraft:air
+minecraft:air -2990 68 -409 0 minecraft:air
+simplylight:edge_light_top -2990 68 -408 2 simplylight:edge_light_top
+webdisplays:screen -2990 68 -407 0 webdisplays:screen
+minecraft:concrete -2990 69 -418 7 minecraft:concrete
+minecraft:concrete -2990 69 -417 7 minecraft:concrete
+minecraft:concrete -2990 69 -416 7 minecraft:concrete
+minecraft:concrete -2990 69 -415 7 minecraft:concrete
+minecraft:concrete -2990 69 -414 7 minecraft:concrete
+minecraft:concrete -2990 69 -413 7 minecraft:concrete
+minecraft:concrete -2990 69 -412 7 minecraft:concrete
+minecraft:concrete -2990 69 -411 7 minecraft:concrete
+minecraft:concrete -2990 69 -410 7 minecraft:concrete
+minecraft:concrete -2990 69 -409 7 minecraft:concrete
+minecraft:concrete -2990 69 -408 7 minecraft:concrete
+minecraft:concrete -2990 69 -407 7 minecraft:concrete
+littletiles:blocklittletiles -2990 70 -418 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2990,y:70,z:-418,id:"minecraft:littletilestileentity",content:{tiles:[{boxes:[[I;0,0,0,4,1,4],[I;0,2,0,4,4,4]],block:"minecraft:concrete:7"}],children:[]}}
+littletiles:blocklittletiles -2990 70 -417 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2990,y:70,z:-417,id:"minecraft:littletilestileentity",content:{tiles:[{boxes:[[I;0,0,0,4,1,4],[I;0,2,0,4,4,4]],block:"minecraft:concrete:7"}],children:[]}}
+littletiles:blocklittletiles -2990 70 -416 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2990,y:70,z:-416,id:"minecraft:littletilestileentity",content:{tiles:[{boxes:[[I;0,0,0,4,1,4],[I;0,2,0,4,4,4]],block:"minecraft:concrete:7"}],children:[]}}
+littletiles:blocklittletiles -2990 70 -415 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2990,y:70,z:-415,id:"minecraft:littletilestileentity",content:{tiles:[{boxes:[[I;0,0,0,4,1,4],[I;0,2,0,4,4,4]],block:"minecraft:concrete:7"}],children:[]}}
+littletiles:blocklittletiles -2990 70 -414 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2990,y:70,z:-414,id:"minecraft:littletilestileentity",content:{tiles:[{boxes:[[I;0,0,0,4,1,4],[I;0,2,0,4,4,4]],block:"minecraft:concrete:7"}],children:[]}}
+littletiles:blocklittletiles -2990 70 -413 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2990,y:70,z:-413,id:"minecraft:littletilestileentity",content:{tiles:[{boxes:[[I;0,0,0,4,1,4],[I;0,2,0,4,4,4]],block:"minecraft:concrete:7"}],children:[]}}
+securitycraft:reinforced_concrete -2990 70 -412 7 securitycraft:reinforced_concrete
+NBT: {owner:"Sarocesch",ownerUUID:"0efb6c02-68d9-41cd-a902-cef5845e39e2",x:-2990,y:70,z:-412,id:"securitycraft:ownable"}
+littletiles:blocklittletiles -2990 70 -411 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2990,y:70,z:-411,id:"minecraft:littletilestileentity",content:{tiles:[{box:[I;0,0,0,4,1,4],block:"minecraft:concrete:7"},{box:[I;0,2,0,4,4,4],block:"saros_new_blocks_mod:behandeltes_holz"}],children:[]}}
+littletiles:blocklittletiles -2990 70 -410 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2990,y:70,z:-410,id:"minecraft:littletilestileentity",content:{tiles:[{box:[I;0,0,0,4,1,4],block:"minecraft:concrete:7"},{box:[I;0,2,0,4,4,4],block:"saros_new_blocks_mod:behandeltes_holz"}],children:[]}}
+littletiles:blocklittletiles -2990 70 -409 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2990,y:70,z:-409,id:"minecraft:littletilestileentity",content:{tiles:[{box:[I;0,0,0,4,1,4],block:"minecraft:concrete:7"},{box:[I;0,2,0,4,4,4],block:"saros_new_blocks_mod:behandeltes_holz"}],children:[]}}
+littletiles:blocklittletiles -2990 70 -408 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2990,y:70,z:-408,id:"minecraft:littletilestileentity",content:{tiles:[{box:[I;0,0,0,4,1,4],block:"minecraft:concrete:7"},{box:[I;0,2,0,4,4,4],block:"saros_new_blocks_mod:behandeltes_holz"}],children:[]}}
+littletiles:blocklittletiles -2990 70 -407 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2990,y:70,z:-407,id:"minecraft:littletilestileentity",content:{tiles:[{box:[I;0,0,0,4,1,4],block:"minecraft:concrete:7"},{box:[I;0,2,0,4,4,4],block:"saros_new_blocks_mod:behandeltes_holz"}],children:[]}}
+saros_new_blocks_mod:behandeltes_holz -2989 65 -418 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2989 65 -417 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2989 65 -416 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2989 65 -415 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2989 65 -414 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2989 65 -413 0 saros_new_blocks_mod:behandeltes_holz
+minecraft:air -2989 65 -412 0 minecraft:air
+minecraft:air -2989 65 -411 0 minecraft:air
+saros_new_blocks_mod:behandeltes_holz -2989 65 -410 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2989 65 -409 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2989 65 -408 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2989 65 -407 0 saros_new_blocks_mod:behandeltes_holz
+minecraft:air -2989 66 -418 0 minecraft:air
+minecraft:concrete -2989 66 -417 7 minecraft:concrete
+minecraft:air -2989 66 -416 0 minecraft:air
+minecraft:air -2989 66 -415 0 minecraft:air
+minecraft:air -2989 66 -414 0 minecraft:air
+simplylight:edge_light_top -2989 66 -413 2 simplylight:edge_light_top
+minecraft:concrete -2989 66 -412 7 minecraft:concrete
+minecraft:concrete -2989 66 -411 7 minecraft:concrete
+simplylight:edge_light_top -2989 66 -410 1 simplylight:edge_light_top
+minecraft:air -2989 66 -409 0 minecraft:air
+minecraft:air -2989 66 -408 0 minecraft:air
+webdisplays:screen -2989 66 -407 0 webdisplays:screen
+minecraft:air -2989 67 -418 0 minecraft:air
+minecraft:concrete -2989 67 -417 7 minecraft:concrete
+minecraft:air -2989 67 -416 0 minecraft:air
+minecraft:air -2989 67 -415 0 minecraft:air
+minecraft:air -2989 67 -414 0 minecraft:air
+littletiles:blocklittletiles -2989 67 -413 0 littletiles:blocklittletiles
+NBT: {grid:32,x:-2989,y:67,z:-413,id:"minecraft:littletilestileentity",content:{tiles:[{box:[I;0,0,30,32,1,32],block:"minecraft:concrete:7"}],children:[]}}
+cdm:laptop -2989 67 -412 1 cdm:laptop
+NBT: {system_data:{},file_system:{external_drive:{root:{data:{protected:1b,files:{}},file_name:"Root"},name:"Flash Drive",uuid:"72a46d7a-bbe2-47af-a0c8-e4f2880fbd20"},external_drive_color:3b,drives:[],main_drive:{root:{data:{protected:1b,files:{"Application Data":{protected:1b,files:{}},Home:{protected:1b,files:{}}}},file_name:"Root"},name:"Root"}},color:3b,x:-2989,y:67,z:-412,id:"cdm:laptop",deviceId:"cfbfe95b-12cc-49e1-ba7e-ccf7aa8ce241",open:0b}
+minecraft:air -2989 67 -411 0 minecraft:air
+littletiles:blocklittletiles -2989 67 -410 0 littletiles:blocklittletiles
+NBT: {grid:32,x:-2989,y:67,z:-410,id:"minecraft:littletilestileentity",content:{tiles:[{box:[I;0,0,0,32,1,2],block:"minecraft:concrete:7"}],children:[]}}
+minecraft:air -2989 67 -409 0 minecraft:air
+minecraft:air -2989 67 -408 0 minecraft:air
+webdisplays:screen -2989 67 -407 0 webdisplays:screen
+simplylight:edge_light_top -2989 68 -418 2 simplylight:edge_light_top
+minecraft:concrete -2989 68 -417 7 minecraft:concrete
+simplylight:edge_light_top -2989 68 -416 1 simplylight:edge_light_top
+minecraft:air -2989 68 -415 0 minecraft:air
+minecraft:air -2989 68 -414 0 minecraft:air
+minecraft:air -2989 68 -413 0 minecraft:air
+minecraft:air -2989 68 -412 0 minecraft:air
+minecraft:air -2989 68 -411 0 minecraft:air
+minecraft:air -2989 68 -410 0 minecraft:air
+minecraft:air -2989 68 -409 0 minecraft:air
+simplylight:edge_light_top -2989 68 -408 2 simplylight:edge_light_top
+webdisplays:screen -2989 68 -407 0 webdisplays:screen
+minecraft:concrete -2989 69 -418 7 minecraft:concrete
+minecraft:concrete -2989 69 -417 7 minecraft:concrete
+minecraft:concrete -2989 69 -416 7 minecraft:concrete
+minecraft:concrete -2989 69 -415 7 minecraft:concrete
+minecraft:concrete -2989 69 -414 7 minecraft:concrete
+minecraft:concrete -2989 69 -413 7 minecraft:concrete
+minecraft:concrete -2989 69 -412 7 minecraft:concrete
+minecraft:concrete -2989 69 -411 7 minecraft:concrete
+minecraft:concrete -2989 69 -410 7 minecraft:concrete
+minecraft:concrete -2989 69 -409 7 minecraft:concrete
+minecraft:concrete -2989 69 -408 7 minecraft:concrete
+minecraft:concrete -2989 69 -407 7 minecraft:concrete
+littletiles:blocklittletiles -2989 70 -418 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2989,y:70,z:-418,id:"minecraft:littletilestileentity",content:{tiles:[{boxes:[[I;0,0,0,4,1,4],[I;0,2,0,4,4,4]],block:"minecraft:concrete:7"}],children:[]}}
+littletiles:blocklittletiles -2989 70 -417 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2989,y:70,z:-417,id:"minecraft:littletilestileentity",content:{tiles:[{boxes:[[I;0,0,0,4,1,4],[I;0,2,0,4,4,4]],block:"minecraft:concrete:7"}],children:[]}}
+littletiles:blocklittletiles -2989 70 -416 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2989,y:70,z:-416,id:"minecraft:littletilestileentity",content:{tiles:[{boxes:[[I;0,0,0,4,1,4],[I;0,2,0,4,4,4]],block:"minecraft:concrete:7"}],children:[]}}
+littletiles:blocklittletiles -2989 70 -415 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2989,y:70,z:-415,id:"minecraft:littletilestileentity",content:{tiles:[{boxes:[[I;0,0,0,4,1,4],[I;0,2,0,4,4,4]],block:"minecraft:concrete:7"}],children:[]}}
+littletiles:blocklittletiles -2989 70 -414 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2989,y:70,z:-414,id:"minecraft:littletilestileentity",content:{tiles:[{boxes:[[I;0,0,0,4,1,4],[I;0,2,0,4,4,4]],block:"minecraft:concrete:7"}],children:[]}}
+littletiles:blocklittletiles -2989 70 -413 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2989,y:70,z:-413,id:"minecraft:littletilestileentity",content:{tiles:[{boxes:[[I;0,0,0,4,1,4],[I;0,2,0,4,4,4]],block:"minecraft:concrete:7"}],children:[]}}
+securitycraft:reinforced_concrete -2989 70 -412 7 securitycraft:reinforced_concrete
+NBT: {owner:"Sarocesch",ownerUUID:"0efb6c02-68d9-41cd-a902-cef5845e39e2",x:-2989,y:70,z:-412,id:"securitycraft:ownable"}
+littletiles:blocklittletiles -2989 70 -411 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2989,y:70,z:-411,id:"minecraft:littletilestileentity",content:{tiles:[{box:[I;0,0,0,4,1,4],block:"minecraft:concrete:7"},{box:[I;0,2,0,4,4,4],block:"saros_new_blocks_mod:behandeltes_holz"}],children:[]}}
+littletiles:blocklittletiles -2989 70 -410 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2989,y:70,z:-410,id:"minecraft:littletilestileentity",content:{tiles:[{box:[I;0,0,0,4,1,4],block:"minecraft:concrete:7"},{box:[I;0,2,0,4,4,4],block:"saros_new_blocks_mod:behandeltes_holz"}],children:[]}}
+littletiles:blocklittletiles -2989 70 -409 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2989,y:70,z:-409,id:"minecraft:littletilestileentity",content:{tiles:[{box:[I;0,0,0,4,1,4],block:"minecraft:concrete:7"},{box:[I;0,2,0,4,4,4],block:"saros_new_blocks_mod:behandeltes_holz"}],children:[]}}
+littletiles:blocklittletiles -2989 70 -408 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2989,y:70,z:-408,id:"minecraft:littletilestileentity",content:{tiles:[{box:[I;0,0,0,4,1,4],block:"minecraft:concrete:7"},{box:[I;0,2,0,4,4,4],block:"saros_new_blocks_mod:behandeltes_holz"}],children:[]}}
+littletiles:blocklittletiles -2989 70 -407 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2989,y:70,z:-407,id:"minecraft:littletilestileentity",content:{tiles:[{box:[I;0,0,0,4,1,4],block:"minecraft:concrete:7"},{box:[I;0,2,0,4,4,4],block:"saros_new_blocks_mod:behandeltes_holz"}],children:[]}}
+saros_new_blocks_mod:behandeltes_holz -2988 65 -418 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2988 65 -417 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2988 65 -416 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2988 65 -415 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2988 65 -414 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2988 65 -413 0 saros_new_blocks_mod:behandeltes_holz
+littletiles:blocklittletiles -2988 65 -412 0 littletiles:blocklittletiles
+NBT: {x:-2988,y:65,z:-412,id:"minecraft:littletilestileentity",content:{tiles:[{boxes:[[I;0,0,9,16,16,16],[I;0,0,0,16,15,9],[I;1,15,0,16,16,9],[I;0,15,0,1,16,8]],block:"saros_new_blocks_mod:behandeltes_holz"}],children:[]}}
+saros_new_blocks_mod:behandeltes_holz -2988 65 -411 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2988 65 -410 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2988 65 -409 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2988 65 -408 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2988 65 -407 0 saros_new_blocks_mod:behandeltes_holz
+minecraft:air -2988 66 -418 0 minecraft:air
+minecraft:concrete -2988 66 -417 7 minecraft:concrete
+minecraft:air -2988 66 -416 0 minecraft:air
+minecraft:air -2988 66 -415 0 minecraft:air
+minecraft:air -2988 66 -414 0 minecraft:air
+littletiles:blocklittletiles -2988 66 -413 0 littletiles:blocklittletiles
+NBT: {x:-2988,y:66,z:-413,id:"minecraft:littletilestileentity",content:{tiles:[{box:[I;0,15,15,1,16,16],block:"minecraft:concrete:7"}],children:[]}}
+simplylight:edge_light_top -2988 66 -412 8 simplylight:edge_light_top
+simplylight:edge_light_top -2988 66 -411 8 simplylight:edge_light_top
+littletiles:blocklittletiles -2988 66 -410 0 littletiles:blocklittletiles
+NBT: {x:-2988,y:66,z:-410,id:"minecraft:littletilestileentity",content:{tiles:[{box:[I;0,15,0,1,16,1],block:"minecraft:concrete:7"}],children:[]}}
+minecraft:air -2988 66 -409 0 minecraft:air
+minecraft:air -2988 66 -408 0 minecraft:air
+webdisplays:screen -2988 66 -407 1 webdisplays:screen
+NBT: {WDScreens:[{OwnerName:"Sarocesch",Upgrades:[],Friends:[],FriendRights:51b,Rotation:0b,OtherRights:51b,URL:"https://minewache.site/mwdrehusersmwdreh/",Side:2b,AutoVolume:1b,OwnerUUIDLeast:-6268220177463232030L,OwnerUUIDMost:1079575293290168781L,Height:3,ResolutionY:352,ResolutionX:736,Width:6}],x:-2988,y:66,z:-407,id:"webdisplays:screen"}
+minecraft:air -2988 67 -418 0 minecraft:air
+minecraft:concrete -2988 67 -417 7 minecraft:concrete
+minecraft:air -2988 67 -416 0 minecraft:air
+minecraft:air -2988 67 -415 0 minecraft:air
+minecraft:air -2988 67 -414 0 minecraft:air
+littletiles:blocklittletiles -2988 67 -413 0 littletiles:blocklittletiles
+NBT: {grid:32,x:-2988,y:67,z:-413,id:"minecraft:littletilestileentity",content:{tiles:[{box:[I;0,0,30,2,1,32],block:"minecraft:concrete:7"}],children:[]}}
+littletiles:blocklittletiles -2988 67 -412 0 littletiles:blocklittletiles
+NBT: {grid:32,x:-2988,y:67,z:-412,id:"minecraft:littletilestileentity",content:{tiles:[{box:[I;0,0,0,2,1,32],block:"minecraft:concrete:7"}],children:[]}}
+littletiles:blocklittletiles -2988 67 -411 0 littletiles:blocklittletiles
+NBT: {grid:32,x:-2988,y:67,z:-411,id:"minecraft:littletilestileentity",content:{tiles:[{box:[I;0,0,0,2,1,32],block:"minecraft:concrete:7"}],children:[]}}
+littletiles:blocklittletiles -2988 67 -410 0 littletiles:blocklittletiles
+NBT: {grid:32,x:-2988,y:67,z:-410,id:"minecraft:littletilestileentity",content:{tiles:[{box:[I;0,0,0,2,1,2],block:"minecraft:concrete:7"}],children:[]}}
+minecraft:air -2988 67 -409 0 minecraft:air
+minecraft:air -2988 67 -408 0 minecraft:air
+webdisplays:screen -2988 67 -407 0 webdisplays:screen
+simplylight:edge_light_top -2988 68 -418 2 simplylight:edge_light_top
+minecraft:concrete -2988 68 -417 7 minecraft:concrete
+simplylight:edge_light_top -2988 68 -416 1 simplylight:edge_light_top
+minecraft:air -2988 68 -415 0 minecraft:air
+minecraft:air -2988 68 -414 0 minecraft:air
+minecraft:air -2988 68 -413 0 minecraft:air
+minecraft:air -2988 68 -412 0 minecraft:air
+minecraft:air -2988 68 -411 0 minecraft:air
+minecraft:air -2988 68 -410 0 minecraft:air
+minecraft:air -2988 68 -409 0 minecraft:air
+simplylight:edge_light_top -2988 68 -408 2 simplylight:edge_light_top
+webdisplays:screen -2988 68 -407 0 webdisplays:screen
+minecraft:concrete -2988 69 -418 7 minecraft:concrete
+minecraft:concrete -2988 69 -417 7 minecraft:concrete
+minecraft:concrete -2988 69 -416 7 minecraft:concrete
+minecraft:concrete -2988 69 -415 7 minecraft:concrete
+minecraft:concrete -2988 69 -414 7 minecraft:concrete
+minecraft:concrete -2988 69 -413 7 minecraft:concrete
+minecraft:concrete -2988 69 -412 7 minecraft:concrete
+minecraft:concrete -2988 69 -411 7 minecraft:concrete
+minecraft:concrete -2988 69 -410 7 minecraft:concrete
+minecraft:concrete -2988 69 -409 7 minecraft:concrete
+minecraft:concrete -2988 69 -408 7 minecraft:concrete
+minecraft:concrete -2988 69 -407 7 minecraft:concrete
+littletiles:blocklittletiles -2988 70 -418 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2988,y:70,z:-418,id:"minecraft:littletilestileentity",content:{tiles:[{boxes:[[I;0,0,0,4,1,4],[I;0,2,0,4,4,4]],block:"minecraft:concrete:7"}],children:[]}}
+littletiles:blocklittletiles -2988 70 -417 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2988,y:70,z:-417,id:"minecraft:littletilestileentity",content:{tiles:[{boxes:[[I;0,0,0,4,1,4],[I;0,2,0,4,4,4]],block:"minecraft:concrete:7"}],children:[]}}
+littletiles:blocklittletiles -2988 70 -416 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2988,y:70,z:-416,id:"minecraft:littletilestileentity",content:{tiles:[{boxes:[[I;0,0,0,4,1,4],[I;0,2,0,4,4,4]],block:"minecraft:concrete:7"}],children:[]}}
+littletiles:blocklittletiles -2988 70 -415 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2988,y:70,z:-415,id:"minecraft:littletilestileentity",content:{tiles:[{boxes:[[I;0,0,0,4,1,4],[I;0,2,0,4,4,4]],block:"minecraft:concrete:7"}],children:[]}}
+littletiles:blocklittletiles -2988 70 -414 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2988,y:70,z:-414,id:"minecraft:littletilestileentity",content:{tiles:[{boxes:[[I;0,0,0,4,1,4],[I;0,2,0,4,4,4]],block:"minecraft:concrete:7"}],children:[]}}
+littletiles:blocklittletiles -2988 70 -413 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2988,y:70,z:-413,id:"minecraft:littletilestileentity",content:{tiles:[{boxes:[[I;0,0,0,4,1,4],[I;0,2,0,4,4,4]],block:"minecraft:concrete:7"}],children:[]}}
+securitycraft:reinforced_concrete -2988 70 -412 7 securitycraft:reinforced_concrete
+NBT: {owner:"Sarocesch",ownerUUID:"0efb6c02-68d9-41cd-a902-cef5845e39e2",x:-2988,y:70,z:-412,id:"securitycraft:ownable"}
+littletiles:blocklittletiles -2988 70 -411 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2988,y:70,z:-411,id:"minecraft:littletilestileentity",content:{tiles:[{box:[I;0,0,0,4,1,4],block:"minecraft:concrete:7"},{box:[I;0,2,0,4,4,4],block:"saros_new_blocks_mod:behandeltes_holz"}],children:[]}}
+littletiles:blocklittletiles -2988 70 -410 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2988,y:70,z:-410,id:"minecraft:littletilestileentity",content:{tiles:[{box:[I;0,0,0,4,1,4],block:"minecraft:concrete:7"},{box:[I;0,2,0,4,4,4],block:"saros_new_blocks_mod:behandeltes_holz"}],children:[]}}
+littletiles:blocklittletiles -2988 70 -409 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2988,y:70,z:-409,id:"minecraft:littletilestileentity",content:{tiles:[{box:[I;0,0,0,4,1,4],block:"minecraft:concrete:7"},{box:[I;0,2,0,4,4,4],block:"saros_new_blocks_mod:behandeltes_holz"}],children:[]}}
+littletiles:blocklittletiles -2988 70 -408 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2988,y:70,z:-408,id:"minecraft:littletilestileentity",content:{tiles:[{box:[I;0,0,0,4,1,4],block:"minecraft:concrete:7"},{box:[I;0,2,0,4,4,4],block:"saros_new_blocks_mod:behandeltes_holz"}],children:[]}}
+littletiles:blocklittletiles -2988 70 -407 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2988,y:70,z:-407,id:"minecraft:littletilestileentity",content:{tiles:[{box:[I;0,0,0,4,1,4],block:"minecraft:concrete:7"},{box:[I;0,2,0,4,4,4],block:"saros_new_blocks_mod:behandeltes_holz"}],children:[]}}
+saros_new_blocks_mod:behandeltes_holz -2987 65 -418 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2987 65 -417 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2987 65 -416 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2987 65 -415 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2987 65 -414 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2987 65 -413 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2987 65 -412 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2987 65 -411 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2987 65 -410 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2987 65 -409 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2987 65 -408 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2987 65 -407 0 saros_new_blocks_mod:behandeltes_holz
+minecraft:air -2987 66 -418 0 minecraft:air
+minecraft:concrete -2987 66 -417 7 minecraft:concrete
+minecraft:air -2987 66 -416 0 minecraft:air
+minecraft:air -2987 66 -415 0 minecraft:air
+minecraft:air -2987 66 -414 0 minecraft:air
+minecraft:air -2987 66 -413 0 minecraft:air
+minecraft:air -2987 66 -412 0 minecraft:air
+minecraft:air -2987 66 -411 0 minecraft:air
+minecraft:air -2987 66 -410 0 minecraft:air
+minecraft:air -2987 66 -409 0 minecraft:air
+minecraft:air -2987 66 -408 0 minecraft:air
+minecraft:concrete -2987 66 -407 7 minecraft:concrete
+minecraft:air -2987 67 -418 0 minecraft:air
+minecraft:concrete -2987 67 -417 7 minecraft:concrete
+minecraft:air -2987 67 -416 0 minecraft:air
+minecraft:air -2987 67 -415 0 minecraft:air
+minecraft:air -2987 67 -414 0 minecraft:air
+minecraft:air -2987 67 -413 0 minecraft:air
+minecraft:air -2987 67 -412 0 minecraft:air
+minecraft:air -2987 67 -411 0 minecraft:air
+minecraft:air -2987 67 -410 0 minecraft:air
+minecraft:air -2987 67 -409 0 minecraft:air
+minecraft:air -2987 67 -408 0 minecraft:air
+minecraft:concrete -2987 67 -407 7 minecraft:concrete
+simplylight:edge_light_top -2987 68 -418 2 simplylight:edge_light_top
+minecraft:concrete -2987 68 -417 7 minecraft:concrete
+simplylight:edge_light_top -2987 68 -416 1 simplylight:edge_light_top
+minecraft:air -2987 68 -415 0 minecraft:air
+minecraft:air -2987 68 -414 0 minecraft:air
+minecraft:air -2987 68 -413 0 minecraft:air
+minecraft:air -2987 68 -412 0 minecraft:air
+minecraft:air -2987 68 -411 0 minecraft:air
+minecraft:air -2987 68 -410 0 minecraft:air
+minecraft:air -2987 68 -409 0 minecraft:air
+simplylight:edge_light_top -2987 68 -408 2 simplylight:edge_light_top
+minecraft:concrete -2987 68 -407 7 minecraft:concrete
+minecraft:concrete -2987 69 -418 7 minecraft:concrete
+minecraft:concrete -2987 69 -417 7 minecraft:concrete
+minecraft:concrete -2987 69 -416 7 minecraft:concrete
+minecraft:concrete -2987 69 -415 7 minecraft:concrete
+minecraft:concrete -2987 69 -414 7 minecraft:concrete
+minecraft:concrete -2987 69 -413 7 minecraft:concrete
+minecraft:concrete -2987 69 -412 7 minecraft:concrete
+minecraft:concrete -2987 69 -411 7 minecraft:concrete
+minecraft:concrete -2987 69 -410 7 minecraft:concrete
+minecraft:concrete -2987 69 -409 7 minecraft:concrete
+minecraft:concrete -2987 69 -408 7 minecraft:concrete
+minecraft:concrete -2987 69 -407 7 minecraft:concrete
+littletiles:blocklittletiles -2987 70 -418 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2987,y:70,z:-418,id:"minecraft:littletilestileentity",content:{tiles:[{boxes:[[I;0,0,0,4,1,4],[I;0,2,0,4,4,4]],block:"minecraft:concrete:7"}],children:[]}}
+littletiles:blocklittletiles -2987 70 -417 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2987,y:70,z:-417,id:"minecraft:littletilestileentity",content:{tiles:[{boxes:[[I;0,0,0,4,1,4],[I;0,2,0,4,4,4]],block:"minecraft:concrete:7"}],children:[]}}
+littletiles:blocklittletiles -2987 70 -416 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2987,y:70,z:-416,id:"minecraft:littletilestileentity",content:{tiles:[{boxes:[[I;0,0,0,4,1,4],[I;0,2,0,4,4,4]],block:"minecraft:concrete:7"}],children:[]}}
+littletiles:blocklittletiles -2987 70 -415 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2987,y:70,z:-415,id:"minecraft:littletilestileentity",content:{tiles:[{boxes:[[I;0,0,0,4,1,4],[I;0,2,0,4,4,4]],block:"minecraft:concrete:7"}],children:[]}}
+littletiles:blocklittletiles -2987 70 -414 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2987,y:70,z:-414,id:"minecraft:littletilestileentity",content:{tiles:[{boxes:[[I;0,0,0,4,1,4],[I;0,2,0,4,4,4]],block:"minecraft:concrete:7"}],children:[]}}
+littletiles:blocklittletiles -2987 70 -413 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2987,y:70,z:-413,id:"minecraft:littletilestileentity",content:{tiles:[{boxes:[[I;0,0,0,4,1,4],[I;0,2,0,4,4,4]],block:"minecraft:concrete:7"}],children:[]}}
+securitycraft:reinforced_concrete -2987 70 -412 7 securitycraft:reinforced_concrete
+NBT: {owner:"Sarocesch",ownerUUID:"0efb6c02-68d9-41cd-a902-cef5845e39e2",x:-2987,y:70,z:-412,id:"securitycraft:ownable"}
+littletiles:blocklittletiles -2987 70 -411 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2987,y:70,z:-411,id:"minecraft:littletilestileentity",content:{tiles:[{box:[I;0,0,0,4,1,4],block:"minecraft:concrete:7"},{box:[I;0,2,0,4,4,4],block:"saros_new_blocks_mod:behandeltes_holz"}],children:[]}}
+littletiles:blocklittletiles -2987 70 -410 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2987,y:70,z:-410,id:"minecraft:littletilestileentity",content:{tiles:[{box:[I;0,0,0,4,1,4],block:"minecraft:concrete:7"},{box:[I;0,2,0,4,4,4],block:"saros_new_blocks_mod:behandeltes_holz"}],children:[]}}
+littletiles:blocklittletiles -2987 70 -409 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2987,y:70,z:-409,id:"minecraft:littletilestileentity",content:{tiles:[{box:[I;0,0,0,4,1,4],block:"minecraft:concrete:7"},{box:[I;0,2,0,4,4,4],block:"saros_new_blocks_mod:behandeltes_holz"}],children:[]}}
+littletiles:blocklittletiles -2987 70 -408 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2987,y:70,z:-408,id:"minecraft:littletilestileentity",content:{tiles:[{box:[I;0,0,0,4,1,4],block:"minecraft:concrete:7"},{box:[I;0,2,0,4,4,4],block:"saros_new_blocks_mod:behandeltes_holz"}],children:[]}}
+littletiles:blocklittletiles -2987 70 -407 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2987,y:70,z:-407,id:"minecraft:littletilestileentity",content:{tiles:[{box:[I;0,0,0,4,1,4],block:"minecraft:concrete:7"},{box:[I;0,2,0,4,4,4],block:"saros_new_blocks_mod:behandeltes_holz"}],children:[]}}
+saros_new_blocks_mod:behandeltes_holz -2986 65 -418 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2986 65 -417 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2986 65 -416 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2986 65 -415 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2986 65 -414 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2986 65 -413 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2986 65 -412 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2986 65 -411 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2986 65 -410 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2986 65 -409 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2986 65 -408 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2986 65 -407 0 saros_new_blocks_mod:behandeltes_holz
+minecraft:air -2986 66 -418 0 minecraft:air
+minecraft:concrete -2986 66 -417 7 minecraft:concrete
+minecraft:air -2986 66 -416 0 minecraft:air
+minecraft:air -2986 66 -415 0 minecraft:air
+minecraft:air -2986 66 -414 0 minecraft:air
+minecraft:air -2986 66 -413 0 minecraft:air
+minecraft:air -2986 66 -412 0 minecraft:air
+minecraft:air -2986 66 -411 0 minecraft:air
+minecraft:air -2986 66 -410 0 minecraft:air
+minecraft:air -2986 66 -409 0 minecraft:air
+minecraft:air -2986 66 -408 0 minecraft:air
+minecraft:concrete -2986 66 -407 7 minecraft:concrete
+minecraft:air -2986 67 -418 0 minecraft:air
+minecraft:concrete -2986 67 -417 7 minecraft:concrete
+minecraft:air -2986 67 -416 0 minecraft:air
+minecraft:air -2986 67 -415 0 minecraft:air
+minecraft:air -2986 67 -414 0 minecraft:air
+minecraft:air -2986 67 -413 0 minecraft:air
+minecraft:air -2986 67 -412 0 minecraft:air
+minecraft:air -2986 67 -411 0 minecraft:air
+minecraft:air -2986 67 -410 0 minecraft:air
+minecraft:air -2986 67 -409 0 minecraft:air
+minecraft:air -2986 67 -408 0 minecraft:air
+minecraft:concrete -2986 67 -407 7 minecraft:concrete
+simplylight:edge_light_top -2986 68 -418 2 simplylight:edge_light_top
+minecraft:concrete -2986 68 -417 7 minecraft:concrete
+simplylight:edge_light_top -2986 68 -416 1 simplylight:edge_light_top
+minecraft:air -2986 68 -415 0 minecraft:air
+minecraft:air -2986 68 -414 0 minecraft:air
+minecraft:air -2986 68 -413 0 minecraft:air
+minecraft:air -2986 68 -412 0 minecraft:air
+minecraft:air -2986 68 -411 0 minecraft:air
+minecraft:air -2986 68 -410 0 minecraft:air
+minecraft:air -2986 68 -409 0 minecraft:air
+simplylight:edge_light_top -2986 68 -408 2 simplylight:edge_light_top
+minecraft:concrete -2986 68 -407 7 minecraft:concrete
+minecraft:concrete -2986 69 -418 7 minecraft:concrete
+minecraft:concrete -2986 69 -417 7 minecraft:concrete
+minecraft:concrete -2986 69 -416 7 minecraft:concrete
+minecraft:concrete -2986 69 -415 7 minecraft:concrete
+minecraft:concrete -2986 69 -414 7 minecraft:concrete
+minecraft:concrete -2986 69 -413 7 minecraft:concrete
+minecraft:concrete -2986 69 -412 7 minecraft:concrete
+minecraft:concrete -2986 69 -411 7 minecraft:concrete
+minecraft:concrete -2986 69 -410 7 minecraft:concrete
+minecraft:concrete -2986 69 -409 7 minecraft:concrete
+minecraft:concrete -2986 69 -408 7 minecraft:concrete
+minecraft:concrete -2986 69 -407 7 minecraft:concrete
+littletiles:blocklittletiles -2986 70 -418 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2986,y:70,z:-418,id:"minecraft:littletilestileentity",content:{tiles:[{boxes:[[I;0,0,0,4,1,4],[I;0,2,0,4,4,4]],block:"minecraft:concrete:7"}],children:[]}}
+littletiles:blocklittletiles -2986 70 -417 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2986,y:70,z:-417,id:"minecraft:littletilestileentity",content:{tiles:[{boxes:[[I;0,0,0,4,1,4],[I;0,2,0,4,4,4]],block:"minecraft:concrete:7"}],children:[]}}
+littletiles:blocklittletiles -2986 70 -416 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2986,y:70,z:-416,id:"minecraft:littletilestileentity",content:{tiles:[{boxes:[[I;0,0,0,4,1,4],[I;0,2,0,4,4,4]],block:"minecraft:concrete:7"}],children:[]}}
+littletiles:blocklittletiles -2986 70 -415 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2986,y:70,z:-415,id:"minecraft:littletilestileentity",content:{tiles:[{boxes:[[I;0,0,0,4,1,4],[I;0,2,0,4,4,4]],block:"minecraft:concrete:7"}],children:[]}}
+littletiles:blocklittletiles -2986 70 -414 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2986,y:70,z:-414,id:"minecraft:littletilestileentity",content:{tiles:[{boxes:[[I;0,0,0,4,1,4],[I;0,2,0,4,4,4]],block:"minecraft:concrete:7"}],children:[]}}
+littletiles:blocklittletiles -2986 70 -413 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2986,y:70,z:-413,id:"minecraft:littletilestileentity",content:{tiles:[{boxes:[[I;0,0,0,4,1,4],[I;0,2,0,4,4,4]],block:"minecraft:concrete:7"}],children:[]}}
+securitycraft:reinforced_concrete -2986 70 -412 7 securitycraft:reinforced_concrete
+NBT: {owner:"Sarocesch",ownerUUID:"0efb6c02-68d9-41cd-a902-cef5845e39e2",x:-2986,y:70,z:-412,id:"securitycraft:ownable"}
+littletiles:blocklittletiles -2986 70 -411 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2986,y:70,z:-411,id:"minecraft:littletilestileentity",content:{tiles:[{box:[I;0,0,0,4,1,4],block:"minecraft:concrete:7"},{box:[I;0,2,0,4,4,4],block:"saros_new_blocks_mod:behandeltes_holz"}],children:[]}}
+littletiles:blocklittletiles -2986 70 -410 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2986,y:70,z:-410,id:"minecraft:littletilestileentity",content:{tiles:[{box:[I;0,0,0,4,1,4],block:"minecraft:concrete:7"},{box:[I;0,2,0,4,4,4],block:"saros_new_blocks_mod:behandeltes_holz"}],children:[]}}
+littletiles:blocklittletiles -2986 70 -409 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2986,y:70,z:-409,id:"minecraft:littletilestileentity",content:{tiles:[{box:[I;0,0,0,4,1,4],block:"minecraft:concrete:7"},{box:[I;0,2,0,4,4,4],block:"saros_new_blocks_mod:behandeltes_holz"}],children:[]}}
+littletiles:blocklittletiles -2986 70 -408 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2986,y:70,z:-408,id:"minecraft:littletilestileentity",content:{tiles:[{box:[I;0,0,0,4,1,4],block:"minecraft:concrete:7"},{box:[I;0,2,0,4,4,4],block:"saros_new_blocks_mod:behandeltes_holz"}],children:[]}}
+littletiles:blocklittletiles -2986 70 -407 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2986,y:70,z:-407,id:"minecraft:littletilestileentity",content:{tiles:[{box:[I;0,0,0,4,1,4],block:"minecraft:concrete:7"},{box:[I;0,2,0,4,4,4],block:"saros_new_blocks_mod:behandeltes_holz"}],children:[]}}
+saros_new_blocks_mod:behandeltes_holz -2985 65 -418 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2985 65 -417 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2985 65 -416 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2985 65 -415 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2985 65 -414 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2985 65 -413 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2985 65 -412 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2985 65 -411 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2985 65 -410 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2985 65 -409 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2985 65 -408 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2985 65 -407 0 saros_new_blocks_mod:behandeltes_holz
+minecraft:air -2985 66 -418 0 minecraft:air
+minecraft:concrete -2985 66 -417 7 minecraft:concrete
+props:blockprops -2985 66 -416 2 props:blockprops
+NBT: {slaves:[],BlockType:3365,isRunning:0b,x:-2985,y:66,z:-416,id:"props:com.mia.props.common.tileprops",BlockRotation:8}
+minecraft:air -2985 66 -415 0 minecraft:air
+minecraft:air -2985 66 -414 0 minecraft:air
+minecraft:air -2985 66 -413 0 minecraft:air
+minecraft:air -2985 66 -412 0 minecraft:air
+minecraft:air -2985 66 -411 0 minecraft:air
+minecraft:air -2985 66 -410 0 minecraft:air
+minecraft:air -2985 66 -409 0 minecraft:air
+props:blockprops -2985 66 -408 0 props:blockprops
+NBT: {slaves:[[I;-2985,67,-408]],BlockType:1689,isRunning:0b,x:-2985,y:66,z:-408,id:"props:com.mia.props.common.tileprops",BlockRotation:0}
+minecraft:concrete -2985 66 -407 7 minecraft:concrete
+minecraft:air -2985 67 -418 0 minecraft:air
+minecraft:concrete -2985 67 -417 7 minecraft:concrete
+minecraft:air -2985 67 -416 0 minecraft:air
+minecraft:air -2985 67 -415 0 minecraft:air
+minecraft:air -2985 67 -414 0 minecraft:air
+minecraft:air -2985 67 -413 0 minecraft:air
+minecraft:air -2985 67 -412 0 minecraft:air
+minecraft:air -2985 67 -411 0 minecraft:air
+minecraft:air -2985 67 -410 0 minecraft:air
+minecraft:air -2985 67 -409 0 minecraft:air
+props:blockfake -2985 67 -408 2 props:blockfake
+NBT: {x:-2985,y:67,z:-408,id:"props:com.mia.props.common.tilefake",master:[I;-2985,66,-408]}
+minecraft:concrete -2985 67 -407 7 minecraft:concrete
+simplylight:edge_light_top -2985 68 -418 2 simplylight:edge_light_top
+minecraft:concrete -2985 68 -417 7 minecraft:concrete
+simplylight:edge_light_top -2985 68 -416 5 simplylight:edge_light_top
+simplylight:edge_light_top -2985 68 -415 4 simplylight:edge_light_top
+simplylight:edge_light_top -2985 68 -414 4 simplylight:edge_light_top
+simplylight:edge_light_top -2985 68 -413 4 simplylight:edge_light_top
+simplylight:edge_light_top -2985 68 -412 4 simplylight:edge_light_top
+simplylight:edge_light_top -2985 68 -411 4 simplylight:edge_light_top
+simplylight:edge_light_top -2985 68 -410 4 simplylight:edge_light_top
+simplylight:edge_light_top -2985 68 -409 4 simplylight:edge_light_top
+simplylight:edge_light_top -2985 68 -408 6 simplylight:edge_light_top
+minecraft:concrete -2985 68 -407 7 minecraft:concrete
+minecraft:concrete -2985 69 -418 7 minecraft:concrete
+minecraft:concrete -2985 69 -417 7 minecraft:concrete
+minecraft:concrete -2985 69 -416 7 minecraft:concrete
+minecraft:concrete -2985 69 -415 7 minecraft:concrete
+minecraft:concrete -2985 69 -414 7 minecraft:concrete
+minecraft:concrete -2985 69 -413 7 minecraft:concrete
+minecraft:concrete -2985 69 -412 7 minecraft:concrete
+minecraft:concrete -2985 69 -411 7 minecraft:concrete
+minecraft:concrete -2985 69 -410 7 minecraft:concrete
+minecraft:concrete -2985 69 -409 7 minecraft:concrete
+minecraft:concrete -2985 69 -408 7 minecraft:concrete
+minecraft:concrete -2985 69 -407 7 minecraft:concrete
+littletiles:blocklittletiles -2985 70 -418 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2985,y:70,z:-418,id:"minecraft:littletilestileentity",content:{tiles:[{boxes:[[I;0,0,0,4,1,4],[I;0,2,0,4,4,4]],block:"minecraft:concrete:7"}],children:[]}}
+littletiles:blocklittletiles -2985 70 -417 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2985,y:70,z:-417,id:"minecraft:littletilestileentity",content:{tiles:[{boxes:[[I;0,0,0,4,1,4],[I;0,2,0,4,4,4]],block:"minecraft:concrete:7"}],children:[]}}
+littletiles:blocklittletiles -2985 70 -416 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2985,y:70,z:-416,id:"minecraft:littletilestileentity",content:{tiles:[{boxes:[[I;0,0,0,4,1,4],[I;0,2,0,4,4,4]],block:"minecraft:concrete:7"}],children:[]}}
+littletiles:blocklittletiles -2985 70 -415 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2985,y:70,z:-415,id:"minecraft:littletilestileentity",content:{tiles:[{boxes:[[I;0,0,0,4,1,4],[I;0,2,0,4,4,4]],block:"minecraft:concrete:7"}],children:[]}}
+littletiles:blocklittletiles -2985 70 -414 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2985,y:70,z:-414,id:"minecraft:littletilestileentity",content:{tiles:[{boxes:[[I;0,0,0,4,1,4],[I;0,2,0,4,4,4]],block:"minecraft:concrete:7"}],children:[]}}
+littletiles:blocklittletiles -2985 70 -413 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2985,y:70,z:-413,id:"minecraft:littletilestileentity",content:{tiles:[{boxes:[[I;0,0,0,4,1,4],[I;0,2,0,4,4,4]],block:"minecraft:concrete:7"}],children:[]}}
+securitycraft:reinforced_concrete -2985 70 -412 7 securitycraft:reinforced_concrete
+NBT: {owner:"Sarocesch",ownerUUID:"0efb6c02-68d9-41cd-a902-cef5845e39e2",x:-2985,y:70,z:-412,id:"securitycraft:ownable"}
+littletiles:blocklittletiles -2985 70 -411 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2985,y:70,z:-411,id:"minecraft:littletilestileentity",content:{tiles:[{box:[I;0,0,0,4,1,4],block:"minecraft:concrete:7"},{box:[I;0,2,0,4,4,4],block:"saros_new_blocks_mod:behandeltes_holz"}],children:[]}}
+littletiles:blocklittletiles -2985 70 -410 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2985,y:70,z:-410,id:"minecraft:littletilestileentity",content:{tiles:[{box:[I;0,0,0,4,1,4],block:"minecraft:concrete:7"},{box:[I;0,2,0,4,4,4],block:"saros_new_blocks_mod:behandeltes_holz"}],children:[]}}
+littletiles:blocklittletiles -2985 70 -409 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2985,y:70,z:-409,id:"minecraft:littletilestileentity",content:{tiles:[{box:[I;0,0,0,4,1,4],block:"minecraft:concrete:7"},{box:[I;0,2,0,4,4,4],block:"saros_new_blocks_mod:behandeltes_holz"}],children:[]}}
+littletiles:blocklittletiles -2985 70 -408 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2985,y:70,z:-408,id:"minecraft:littletilestileentity",content:{tiles:[{box:[I;0,0,0,4,1,4],block:"minecraft:concrete:7"},{box:[I;0,2,0,4,4,4],block:"saros_new_blocks_mod:behandeltes_holz"}],children:[]}}
+littletiles:blocklittletiles -2985 70 -407 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2985,y:70,z:-407,id:"minecraft:littletilestileentity",content:{tiles:[{box:[I;0,0,0,4,1,4],block:"minecraft:concrete:7"},{box:[I;0,2,0,4,4,4],block:"saros_new_blocks_mod:behandeltes_holz"}],children:[]}}
+saros_new_blocks_mod:behandeltes_holz -2984 65 -418 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2984 65 -417 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2984 65 -416 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2984 65 -415 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2984 65 -414 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2984 65 -413 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2984 65 -412 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2984 65 -411 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2984 65 -410 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2984 65 -409 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2984 65 -408 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2984 65 -407 0 saros_new_blocks_mod:behandeltes_holz
+minecraft:air -2984 66 -418 0 minecraft:air
+minecraft:concrete -2984 66 -417 7 minecraft:concrete
+minecraft:concrete -2984 66 -416 7 minecraft:concrete
+minecraft:concrete -2984 66 -415 7 minecraft:concrete
+webdisplays:screen -2984 66 -414 1 webdisplays:screen
+NBT: {WDScreens:[{OwnerName:"Sarocesch",Upgrades:[],Friends:[],FriendRights:51b,Rotation:0b,OtherRights:51b,URL:"https://minewache.site/mwdrehusersmwdreh/",Side:4b,AutoVolume:1b,OwnerUUIDLeast:-6268220177463232030L,OwnerUUIDMost:1079575293290168781L,Height:3,ResolutionY:352,ResolutionX:608,Width:5}],x:-2984,y:66,z:-414,id:"webdisplays:screen"}
+webdisplays:screen -2984 66 -413 0 webdisplays:screen
+webdisplays:screen -2984 66 -412 0 webdisplays:screen
+webdisplays:screen -2984 66 -411 0 webdisplays:screen
+webdisplays:screen -2984 66 -410 0 webdisplays:screen
+minecraft:concrete -2984 66 -409 7 minecraft:concrete
+minecraft:concrete -2984 66 -408 7 minecraft:concrete
+minecraft:concrete -2984 66 -407 7 minecraft:concrete
+minecraft:air -2984 67 -418 0 minecraft:air
+minecraft:concrete -2984 67 -417 7 minecraft:concrete
+minecraft:concrete -2984 67 -416 7 minecraft:concrete
+minecraft:concrete -2984 67 -415 7 minecraft:concrete
+webdisplays:screen -2984 67 -414 0 webdisplays:screen
+webdisplays:screen -2984 67 -413 0 webdisplays:screen
+webdisplays:screen -2984 67 -412 0 webdisplays:screen
+webdisplays:screen -2984 67 -411 0 webdisplays:screen
+webdisplays:screen -2984 67 -410 0 webdisplays:screen
+minecraft:concrete -2984 67 -409 7 minecraft:concrete
+minecraft:concrete -2984 67 -408 7 minecraft:concrete
+minecraft:concrete -2984 67 -407 7 minecraft:concrete
+simplylight:edge_light_top -2984 68 -418 2 simplylight:edge_light_top
+minecraft:concrete -2984 68 -417 7 minecraft:concrete
+minecraft:concrete -2984 68 -416 7 minecraft:concrete
+minecraft:concrete -2984 68 -415 7 minecraft:concrete
+webdisplays:screen -2984 68 -414 0 webdisplays:screen
+webdisplays:screen -2984 68 -413 0 webdisplays:screen
+webdisplays:screen -2984 68 -412 0 webdisplays:screen
+webdisplays:screen -2984 68 -411 0 webdisplays:screen
+webdisplays:screen -2984 68 -410 0 webdisplays:screen
+minecraft:concrete -2984 68 -409 7 minecraft:concrete
+minecraft:concrete -2984 68 -408 7 minecraft:concrete
+minecraft:concrete -2984 68 -407 7 minecraft:concrete
+minecraft:concrete -2984 69 -418 7 minecraft:concrete
+minecraft:concrete -2984 69 -417 7 minecraft:concrete
+minecraft:concrete -2984 69 -416 7 minecraft:concrete
+minecraft:concrete -2984 69 -415 7 minecraft:concrete
+minecraft:concrete -2984 69 -414 7 minecraft:concrete
+minecraft:concrete -2984 69 -413 7 minecraft:concrete
+minecraft:concrete -2984 69 -412 7 minecraft:concrete
+minecraft:concrete -2984 69 -411 7 minecraft:concrete
+minecraft:concrete -2984 69 -410 7 minecraft:concrete
+minecraft:concrete -2984 69 -409 7 minecraft:concrete
+minecraft:concrete -2984 69 -408 7 minecraft:concrete
+minecraft:concrete -2984 69 -407 7 minecraft:concrete
+littletiles:blocklittletiles -2984 70 -418 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2984,y:70,z:-418,id:"minecraft:littletilestileentity",content:{tiles:[{boxes:[[I;0,0,0,4,1,4],[I;0,2,0,4,4,4]],block:"minecraft:concrete:7"}],children:[]}}
+littletiles:blocklittletiles -2984 70 -417 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2984,y:70,z:-417,id:"minecraft:littletilestileentity",content:{tiles:[{boxes:[[I;0,0,0,4,1,4],[I;0,2,0,4,4,4]],block:"minecraft:concrete:7"}],children:[]}}
+littletiles:blocklittletiles -2984 70 -416 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2984,y:70,z:-416,id:"minecraft:littletilestileentity",content:{tiles:[{boxes:[[I;0,0,0,4,1,4],[I;0,2,0,4,4,4]],block:"minecraft:concrete:7"}],children:[]}}
+littletiles:blocklittletiles -2984 70 -415 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2984,y:70,z:-415,id:"minecraft:littletilestileentity",content:{tiles:[{boxes:[[I;0,0,0,4,1,4],[I;0,2,0,4,4,4]],block:"minecraft:concrete:7"}],children:[]}}
+littletiles:blocklittletiles -2984 70 -414 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2984,y:70,z:-414,id:"minecraft:littletilestileentity",content:{tiles:[{boxes:[[I;0,0,0,4,1,4],[I;0,2,0,4,4,4]],block:"minecraft:concrete:7"}],children:[]}}
+littletiles:blocklittletiles -2984 70 -413 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2984,y:70,z:-413,id:"minecraft:littletilestileentity",content:{tiles:[{boxes:[[I;0,0,0,4,1,4],[I;0,2,0,4,4,4]],block:"minecraft:concrete:7"}],children:[]}}
+securitycraft:reinforced_concrete -2984 70 -412 7 securitycraft:reinforced_concrete
+NBT: {owner:"Sarocesch",ownerUUID:"0efb6c02-68d9-41cd-a902-cef5845e39e2",x:-2984,y:70,z:-412,id:"securitycraft:ownable"}
+littletiles:blocklittletiles -2984 70 -411 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2984,y:70,z:-411,id:"minecraft:littletilestileentity",content:{tiles:[{box:[I;0,0,0,4,1,4],block:"minecraft:concrete:7"},{box:[I;0,2,0,4,4,4],block:"saros_new_blocks_mod:behandeltes_holz"}],children:[]}}
+littletiles:blocklittletiles -2984 70 -410 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2984,y:70,z:-410,id:"minecraft:littletilestileentity",content:{tiles:[{box:[I;0,0,0,4,1,4],block:"minecraft:concrete:7"},{box:[I;0,2,0,4,4,4],block:"saros_new_blocks_mod:behandeltes_holz"}],children:[]}}
+littletiles:blocklittletiles -2984 70 -409 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2984,y:70,z:-409,id:"minecraft:littletilestileentity",content:{tiles:[{box:[I;0,0,0,4,1,4],block:"minecraft:concrete:7"},{box:[I;0,2,0,4,4,4],block:"saros_new_blocks_mod:behandeltes_holz"}],children:[]}}
+littletiles:blocklittletiles -2984 70 -408 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2984,y:70,z:-408,id:"minecraft:littletilestileentity",content:{tiles:[{box:[I;0,0,0,4,1,4],block:"minecraft:concrete:7"},{box:[I;0,2,0,4,4,4],block:"saros_new_blocks_mod:behandeltes_holz"}],children:[]}}
+littletiles:blocklittletiles -2984 70 -407 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2984,y:70,z:-407,id:"minecraft:littletilestileentity",content:{tiles:[{box:[I;0,0,0,4,1,4],block:"minecraft:concrete:7"},{box:[I;0,2,0,4,4,4],block:"saros_new_blocks_mod:behandeltes_holz"}],children:[]}}
+saros_new_blocks_mod:behandeltes_holz -2983 65 -418 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2983 65 -417 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2983 65 -416 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2983 65 -415 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2983 65 -414 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2983 65 -413 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2983 65 -412 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2983 65 -411 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2983 65 -410 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2983 65 -409 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2983 65 -408 0 saros_new_blocks_mod:behandeltes_holz
+saros_new_blocks_mod:behandeltes_holz -2983 65 -407 0 saros_new_blocks_mod:behandeltes_holz
+minecraft:air -2983 66 -418 0 minecraft:air
+minecraft:concrete -2983 66 -417 7 minecraft:concrete
+minecraft:concrete -2983 66 -416 7 minecraft:concrete
+minecraft:concrete -2983 66 -415 7 minecraft:concrete
+minecraft:concrete -2983 66 -414 7 minecraft:concrete
+minecraft:concrete -2983 66 -413 7 minecraft:concrete
+minecraft:concrete -2983 66 -412 7 minecraft:concrete
+minecraft:concrete -2983 66 -411 7 minecraft:concrete
+minecraft:concrete -2983 66 -410 7 minecraft:concrete
+minecraft:concrete -2983 66 -409 7 minecraft:concrete
+minecraft:concrete -2983 66 -408 7 minecraft:concrete
+minecraft:concrete -2983 66 -407 7 minecraft:concrete
+minecraft:air -2983 67 -418 0 minecraft:air
+minecraft:concrete -2983 67 -417 7 minecraft:concrete
+minecraft:concrete -2983 67 -416 7 minecraft:concrete
+minecraft:concrete -2983 67 -415 7 minecraft:concrete
+minecraft:concrete -2983 67 -414 7 minecraft:concrete
+minecraft:concrete -2983 67 -413 7 minecraft:concrete
+minecraft:concrete -2983 67 -412 7 minecraft:concrete
+minecraft:concrete -2983 67 -411 7 minecraft:concrete
+minecraft:concrete -2983 67 -410 7 minecraft:concrete
+minecraft:concrete -2983 67 -409 7 minecraft:concrete
+minecraft:concrete -2983 67 -408 7 minecraft:concrete
+minecraft:concrete -2983 67 -407 7 minecraft:concrete
+simplylight:edge_light_top -2983 68 -418 2 simplylight:edge_light_top
+minecraft:concrete -2983 68 -417 7 minecraft:concrete
+minecraft:concrete -2983 68 -416 7 minecraft:concrete
+minecraft:concrete -2983 68 -415 7 minecraft:concrete
+minecraft:concrete -2983 68 -414 7 minecraft:concrete
+minecraft:concrete -2983 68 -413 7 minecraft:concrete
+minecraft:concrete -2983 68 -412 7 minecraft:concrete
+minecraft:concrete -2983 68 -411 7 minecraft:concrete
+minecraft:concrete -2983 68 -410 7 minecraft:concrete
+minecraft:concrete -2983 68 -409 7 minecraft:concrete
+minecraft:concrete -2983 68 -408 7 minecraft:concrete
+minecraft:concrete -2983 68 -407 7 minecraft:concrete
+minecraft:concrete -2983 69 -418 7 minecraft:concrete
+minecraft:concrete -2983 69 -417 7 minecraft:concrete
+minecraft:concrete -2983 69 -416 7 minecraft:concrete
+minecraft:concrete -2983 69 -415 7 minecraft:concrete
+minecraft:concrete -2983 69 -414 7 minecraft:concrete
+minecraft:concrete -2983 69 -413 7 minecraft:concrete
+minecraft:concrete -2983 69 -412 7 minecraft:concrete
+minecraft:concrete -2983 69 -411 7 minecraft:concrete
+minecraft:concrete -2983 69 -410 7 minecraft:concrete
+minecraft:concrete -2983 69 -409 7 minecraft:concrete
+minecraft:concrete -2983 69 -408 7 minecraft:concrete
+minecraft:concrete -2983 69 -407 7 minecraft:concrete
+littletiles:blocklittletiles -2983 70 -418 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2983,y:70,z:-418,id:"minecraft:littletilestileentity",content:{tiles:[{boxes:[[I;0,0,0,4,1,4],[I;0,2,0,4,4,4]],block:"minecraft:concrete:7"}],children:[]}}
+littletiles:blocklittletiles -2983 70 -417 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2983,y:70,z:-417,id:"minecraft:littletilestileentity",content:{tiles:[{boxes:[[I;0,0,0,4,1,4],[I;0,2,0,4,4,4]],block:"minecraft:concrete:7"}],children:[]}}
+littletiles:blocklittletiles -2983 70 -416 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2983,y:70,z:-416,id:"minecraft:littletilestileentity",content:{tiles:[{boxes:[[I;0,0,0,4,1,4],[I;0,2,0,4,4,4]],block:"minecraft:concrete:7"}],children:[]}}
+littletiles:blocklittletiles -2983 70 -415 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2983,y:70,z:-415,id:"minecraft:littletilestileentity",content:{tiles:[{boxes:[[I;0,0,0,4,1,4],[I;0,2,0,4,4,4]],block:"minecraft:concrete:7"}],children:[]}}
+littletiles:blocklittletiles -2983 70 -414 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2983,y:70,z:-414,id:"minecraft:littletilestileentity",content:{tiles:[{boxes:[[I;0,0,0,4,1,4],[I;0,2,0,4,4,4]],block:"minecraft:concrete:7"}],children:[]}}
+littletiles:blocklittletiles -2983 70 -413 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2983,y:70,z:-413,id:"minecraft:littletilestileentity",content:{tiles:[{boxes:[[I;0,0,0,4,1,4],[I;0,2,0,4,4,4]],block:"minecraft:concrete:7"}],children:[]}}
+littletiles:blocklittletiles -2983 70 -412 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2983,y:70,z:-412,id:"minecraft:littletilestileentity",content:{tiles:[{box:[I;0,0,0,4,1,4],block:"minecraft:concrete:7"},{box:[I;0,2,0,4,4,4],block:"minewache_rp_mod:behandeltes_holz"}],children:[]}}
+littletiles:blocklittletiles -2983 70 -411 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2983,y:70,z:-411,id:"minecraft:littletilestileentity",content:{tiles:[{box:[I;0,0,0,4,1,4],block:"minecraft:concrete:7"},{box:[I;0,2,0,4,4,4],block:"saros_new_blocks_mod:behandeltes_holz"}],children:[]}}
+littletiles:blocklittletiles -2983 70 -410 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2983,y:70,z:-410,id:"minecraft:littletilestileentity",content:{tiles:[{box:[I;0,0,0,4,1,4],block:"minecraft:concrete:7"},{box:[I;0,2,0,4,4,4],block:"saros_new_blocks_mod:behandeltes_holz"}],children:[]}}
+littletiles:blocklittletiles -2983 70 -409 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2983,y:70,z:-409,id:"minecraft:littletilestileentity",content:{tiles:[{box:[I;0,0,0,4,1,4],block:"minecraft:concrete:7"},{box:[I;0,2,0,4,4,4],block:"saros_new_blocks_mod:behandeltes_holz"}],children:[]}}
+littletiles:blocklittletiles -2983 70 -408 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2983,y:70,z:-408,id:"minecraft:littletilestileentity",content:{tiles:[{box:[I;0,0,0,4,1,4],block:"minecraft:concrete:7"},{box:[I;0,2,0,4,4,4],block:"saros_new_blocks_mod:behandeltes_holz"}],children:[]}}
+littletiles:blocklittletiles -2983 70 -407 0 littletiles:blocklittletiles
+NBT: {grid:4,x:-2983,y:70,z:-407,id:"minecraft:littletilestileentity",content:{tiles:[{box:[I;0,0,0,4,1,4],block:"minecraft:concrete:7"},{box:[I;0,2,0,4,4,4],block:"saros_new_blocks_mod:behandeltes_holz"}],children:[]}}
